@@ -3,7 +3,7 @@ layout: page
 title: Overview
 permalink: /about/
 feature-img: "assets/img/pexels/travel.jpeg"
-tags: [About, Archive]
+tags: [Overview, Archive]
 ---
 
 The proliferation of programming-related platforms such as GitHub and Stack Overflow has led to large amounts of rich, open-source data consisting of programs associated with natural language, such as natural language questions and answers with code snippets, open-source repositories with natural language comments, and communications between software developers. At the same time, deep learning based techniques have shown promising performance for modeling both natural language and computer programs. Driven by these revolutions on data and models, recent years have witnessed a major resurgence of using NLP techniques to assist programming (NLP4Prog).

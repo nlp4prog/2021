@@ -7,7 +7,7 @@ tags: [Speakers, Archive]
 ---
 
 
-# Invited Speakers
+# Keynote Speakers
 + [Julia Hockenmaier](#julia_hockenmaier) (UIUC)
 
 <br>

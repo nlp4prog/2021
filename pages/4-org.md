@@ -13,7 +13,7 @@ tags: [Organization, Archive]
 + [Milos Gligoric](http://users.ece.utexas.edu/~gligoric/) (UT Austin)
 + [Junyi Jessy](https://jjessyli.github.io)(UT Austin)
 + [Ray Mooney](https://www.cs.utexas.edu/~mooney/) (UT Austin)
-+ [Graham Neubig](http://www.phontron.com/) (Carnegie Mellon University)
++ [Graham Neubig](http://www.phontron.com/index.php?lang=en) (Carnegie Mellon University)
 + [Yu Su](http://ysu1989.github.io/) (The Ohio State University/Microsoft Semantic Machines)
 + [Huan Sun](http://web.cse.ohio-state.edu/~sun.397/) (The Ohio State University)
 + [Reut Tsarfaty](https://nlp.biu.ac.il/~rtsarfaty/onlp) (Bar-Ilan University)

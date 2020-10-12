@@ -7,7 +7,6 @@ tags: [Organization, Archive]
 ---
 
 # Organizers
-![trial3](../assets/img/portfolio/ninja.png?raw=true)
 
 + [Ziyu Yao](http://web.cse.ohio-state.edu/~yao.470/) (The Ohio State University)
 + [Greg Durrett](https://www.cs.utexas.edu/~gdurrett) (UT Austin)

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Overview
-permalink: /about/
+permalink: /overview/
 feature-img: "assets/img/pexels/travel.jpeg"
 tags: [Overview, Archive]
 ---

@@ -22,7 +22,7 @@ tags: [Speakers, Archive]
 # Speaker Details
 
 <a name="julia_hockenmaier"></a>
-<img align="left" src="../assets/img/speakers/Julia_Hockenmaier.jpg" width="35%" style="margin: 0px 15px 5px 0px;"> [Julia Hockenmaier](http://juliahmr.cs.illinois.edu/) (UIUC)
+<img align="left" src="../assets/img/speakers/Julia_Hockenmaier.jpg" width="40%" height:"30%" style="margin: 0px 15px 0px 0px;"> [Julia Hockenmaier](http://juliahmr.cs.illinois.edu/) (UIUC)
 
 **Talk**: _TBD_
 
@@ -31,7 +31,7 @@ tags: [Speakers, Archive]
 <br>
 
 <a name="mirella_lapata"></a>
-<img align="left" src="../assets/img/portfolio/github.png" width="40%" style="margin: 0px 0px 5px 0px;"> [Mirella Lapata](https://nlp4prog.github.io/2021) (University of Edinburgh)
+<img align="left" src="../assets/img/portfolio/github.png" width="40%" height:"40%" style="margin: 0px 15px 5px 0px;"> [Mirella Lapata](https://nlp4prog.github.io/2021) (University of Edinburgh)
 
 **Talk**: _TBD_
 
@@ -40,7 +40,7 @@ tags: [Speakers, Archive]
 <br>
 
 <a name="percy_liang"></a>
-<img align="left" src="../assets/img/portfolio/github.png" width="45%" style="margin: 0px 50px 5px 0px;"> [Percy Liang](https://nlp4prog.github.io/2021) (Stanford; Microsoft Semantic Machines)
+<img align="left" src="../assets/img/portfolio/github.png" width="40%" height:"50%" style="margin: 0px 15px 10px 0px;"> [Percy Liang](https://nlp4prog.github.io/2021) (Stanford; Microsoft Semantic Machines)
 
 **Talk**: _TBD_
 
@@ -48,7 +48,7 @@ tags: [Speakers, Archive]
 <br>
 
 <a name="eran_yahav"></a>
-<img align="left" src="../assets/img/portfolio/github.png" width="50%" style="margin: 0px 15px 0px 0px;"> [Eran Yahav](https://nlp4prog.github.io/2021) (Technion, Israel)
+<img align="left" src="../assets/img/portfolio/github.png" width="40%" style="margin: 0px 15px 20px 0px;"> [Eran Yahav](https://nlp4prog.github.io/2021) (Technion, Israel)
 
 **Talk**: _TBD_
 
@@ -57,7 +57,7 @@ tags: [Speakers, Archive]
 <br>
 
 <a name="charles_sutton"></a>
-<img align="left" src="../assets/img/portfolio/github.png" width="35%" style="margin: 0px 15px 50px 0px;"> [Charles Sutton](https://nlp4prog.github.io/2021) (University of Edinburgh; Google AI)
+<img align="left" src="../assets/img/portfolio/github.png" width="35%" style="margin: 0px 15px 5px 0px;"> [Charles Sutton](https://nlp4prog.github.io/2021) (University of Edinburgh; Google AI)
 
 **Talk**: _TBD_
 

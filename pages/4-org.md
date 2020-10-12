@@ -8,7 +8,7 @@ tags: [Organization, Archive]
 
 # Organizers
 
-![image]({{ ../assets/img/pexels/travel.jpeg }})
+![image]({{ https://github.com/nlp4prog/template01/blob/master/assets/img/portfolio/ninja.png}})
 
 + [Ziyu Yao](http://web.cse.ohio-state.edu/~yao.470/) (The Ohio State University)
 + [Greg Durrett](https://www.cs.utexas.edu/~gdurrett) (UT Austin)

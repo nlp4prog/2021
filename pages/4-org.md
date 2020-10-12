@@ -7,6 +7,7 @@ tags: [Organization, Archive]
 ---
 
 # Organizers
+{% include figure.html file="assets/img/pexels/travel.jpeg" alt="invited speakers" width="110%" %}
 
 + [Ziyu Yao](http://web.cse.ohio-state.edu/~yao.470/) (The Ohio State University)
 + [Greg Durrett](https://www.cs.utexas.edu/~gdurrett) (UT Austin)

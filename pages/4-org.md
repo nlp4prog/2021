@@ -7,8 +7,7 @@ tags: [Organization, Archive]
 ---
 
 # Organizers
-
-![trial image](https://github.com/nlp4prog/template01/blob/master/assets/img/portfolio/ninja.png)
+![trial2](https://github.com/nlp4prog/template01/blob/master/assets/img/portfolio/ninja.png?raw=true)
 
 + [Ziyu Yao](http://web.cse.ohio-state.edu/~yao.470/) (The Ohio State University)
 + [Greg Durrett](https://www.cs.utexas.edu/~gdurrett) (UT Austin)

@@ -3,7 +3,7 @@ baseurl: "/template01"
 url: "https://nlp4prog.github.io"
 
 # THEME-SPECIFIC CONFIGURATION
-title: Nlp4Prog Workshop 2021                                   # site's title
+title: NLP4Prog Workshop 2021                                   # site's title
 description: "Natural Language Processing for Programming workshop 2021"      # used by search engines
 avatar: assets/img/triangle.png                         # Empty for no avatar in navbar
 favicon: assets/favicon.ico                             # Icon displayed in the tab

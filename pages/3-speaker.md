@@ -2,7 +2,7 @@
 layout: page
 title: Keynote Speakers
 permalink: /speakers/
-feature-img: "assets/img/pexels/travel.jpeg"
+feature-img: "assets/img/pexels/computer.jpeg"
 tags: [Speakers, Archive]
 ---
 

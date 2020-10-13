@@ -8,7 +8,7 @@ tags: [Organization, Archive]
 
 # Organizers
 
-+ [Ziyu Yao](http://web.cse.ohio-state.edu/~yao.470/) (The Ohio State University)
++ [Royi Lachmy](https://nlp.biu.ac.il/~rtsarfaty/onlp/nlpro) (Bar-Ilan University)
 + [Greg Durrett](https://www.cs.utexas.edu/~gdurrett) (UT Austin)
 + [Milos Gligoric](http://users.ece.utexas.edu/~gligoric/) (UT Austin)
 + [Junyi Jessy](https://jjessyli.github.io)(UT Austin)

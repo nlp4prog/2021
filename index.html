@@ -3,8 +3,6 @@ layout: default
 ---
 <style>
 .home-info {
-  border: 5px outset red;
-  background-color: lightblue;
   text-align: center;
 }
 </style>
@@ -15,8 +13,9 @@ layout: default
          style="background-image: url('{{ site.header_feature_image | relative_url }}')">
         <h1> {{ site.header_text | default: "Change <code>header_text</code> in <code>_config.yml</code>"}} </h1>
     </div>
-    <div text-align: center;>
+    <div class="home-info">
     At  <a href="https://acl2020.org/">TBD 2021</a> MMMM DD, 2021. 
+    <br>
     <h2> Location </h2>
     NLP4Prog 2021 will be held TBD, co-located with <a href="https://acl2020.org/">TBD 2021</a>. 
 </div>

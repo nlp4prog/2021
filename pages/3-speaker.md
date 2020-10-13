@@ -22,7 +22,7 @@ tags: [Speakers, Archive]
 # Speaker Details
 
 <a name="julia_hockenmaier"></a>
-<img align="left" src="../assets/img/portfolio/github.png" width="40%" height="40%" style="margin: 0px 15px 0px 5px;"> [Julia Hockenmaier](http://juliahmr.cs.illinois.edu/) (UIUC)
+<img align="left" src="../assets/img/portfolio/github.png" width="40%" height="40%" style="margin: 15px;"> [Julia Hockenmaier](http://juliahmr.cs.illinois.edu/) (UIUC)
 
 **Talk**: _TBD_
 
@@ -31,7 +31,7 @@ tags: [Speakers, Archive]
 <br>
 
 <a name="mirella_lapata"></a>
-<img align="left" src="../assets/img/portfolio/github.png" width="40%" height="40%" style="margin: 0px 15px 0px 5px;"> [Mirella Lapata](https://nlp4prog.github.io/2021) (University of Edinburgh)
+<img align="left" src="../assets/img/portfolio/github.png" width="40%" height="40%" style="margin: 15px;"> [Mirella Lapata](https://nlp4prog.github.io/2021) (University of Edinburgh)
 
 **Talk**: _TBD_
 
@@ -40,7 +40,7 @@ tags: [Speakers, Archive]
 <br>
 
 <a name="percy_liang"></a>
-<img align="left" src="../assets/img/portfolio/github.png" width="40%" height="40%" style="margin: 0px 15px 0px 5px;"> [Percy Liang](https://nlp4prog.github.io/2021) (Stanford; Microsoft Semantic Machines)
+<img align="left" src="../assets/img/portfolio/github.png" width="40%" height="40%" style="margin: 15px;"> [Percy Liang](https://nlp4prog.github.io/2021) (Stanford; Microsoft Semantic Machines)
 
 **Talk**: _TBD_
 
@@ -48,7 +48,7 @@ tags: [Speakers, Archive]
 <br>
 
 <a name="eran_yahav"></a>
-<img align="left" src="../assets/img/portfolio/github.png" width="40%" height="40%" style="margin: 0px 15px 0px 5px;"> [Eran Yahav](https://nlp4prog.github.io/2021) (Technion, Israel)
+<img align="left" src="../assets/img/portfolio/github.png" width="40%" height="40%" style="margin: 15px;"> [Eran Yahav](https://nlp4prog.github.io/2021) (Technion, Israel)
 
 **Talk**: _TBD_
 
@@ -57,7 +57,7 @@ tags: [Speakers, Archive]
 <br>
 
 <a name="charles_sutton"></a>
-<img align="left" src="../assets/img/portfolio/github.png" width="40%" height="40%" style="margin: 0px 15px 0px 5px;"> [Charles Sutton](https://nlp4prog.github.io/2021) (University of Edinburgh; Google AI)
+<img align="left" src="../assets/img/portfolio/github.png" width="40%" height="40%" style="margin: 15px;"> [Charles Sutton](https://nlp4prog.github.io/2021) (University of Edinburgh; Google AI)
 
 **Talk**: _TBD_
 
@@ -66,7 +66,7 @@ tags: [Speakers, Archive]
 <br>
 
 <a name="stefanie_tellex"></a>
-<img align="left" src="../assets/img/portfolio/github.png" width="40%" height="40%" style="margin: 0px 15px 0px 5px;"> [Stefanie Tellex](https://nlp4prog.github.io/2021) (Brown University)
+<img align="left" src="../assets/img/portfolio/github.png" width="40%" height="40%" style="margin: 15px;"> [Stefanie Tellex](https://nlp4prog.github.io/2021) (Brown University)
 
 **Talk**: _TBD_
 
@@ -75,7 +75,7 @@ tags: [Speakers, Archive]
 <br>
 
 <a name="lin_tan"></a>
-<img align="left" src="../assets/img/portfolio/github.png" width="40%" height="40%" style="margin: 0px 15px 0px 5px;"> [Lin Tan](https://nlp4prog.github.io/2021) (Purdue University)
+<img align="left" src="../assets/img/portfolio/github.png" width="40%" height="40%" style="margin: 15px;"> [Lin Tan](https://nlp4prog.github.io/2021) (Purdue University)
 
 **Talk**: _TBD_
 
@@ -84,7 +84,7 @@ tags: [Speakers, Archive]
 <br>
 
 <a name="brad_myers"></a>
-<img align="left" src="../assets/img/portfolio/github.png" width="40%" height="40%" style="margin: 0px 15px 0px 5px;"> [Brad Myers](https://nlp4prog.github.io/2021) (Carnegie Mellon University)
+<img align="left" src="../assets/img/portfolio/github.png" width="40%" height="40%" style="margin: 15px;"> [Brad Myers](https://nlp4prog.github.io/2021) (Carnegie Mellon University)
 
 **Talk**: _TBD_
 

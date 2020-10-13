@@ -22,7 +22,7 @@ tags: [Speakers, Archive]
 # Speaker Details
 
 <a name="julia_hockenmaier"></a>
-<img align="left" src="../assets/img/portfolio/github.png" width="40%" style="margin: 30px"> [Julia Hockenmaier](http://juliahmr.cs.illinois.edu/) (UIUC)
+<img align="left" src="../assets/img/portfolio/github.png" width="40%" style="margin: 10%"> [Julia Hockenmaier](http://juliahmr.cs.illinois.edu/) (UIUC)
 
 **Talk**: _TBD_
 
@@ -31,7 +31,7 @@ tags: [Speakers, Archive]
 <br>
 
 <a name="mirella_lapata"></a>
-<img align="left" src="../assets/img/portfolio/github.png" width="40%" style="margin: 30px"> [Mirella Lapata](https://nlp4prog.github.io/2021) (University of Edinburgh)
+<img align="left" src="../assets/img/portfolio/github.png" width="40%" style="margin: 10%"> [Mirella Lapata](https://nlp4prog.github.io/2021) (University of Edinburgh)
 
 **Talk**: _TBD_
 
@@ -40,7 +40,7 @@ tags: [Speakers, Archive]
 <br>
 
 <a name="percy_liang"></a>
-<img align="left" src="../assets/img/portfolio/github.png" width="40%" style="margin: 30px"> [Percy Liang](https://nlp4prog.github.io/2021) (Stanford; Microsoft Semantic Machines)
+<img align="left" src="../assets/img/portfolio/github.png" width="40%" style="margin: 10%"> [Percy Liang](https://nlp4prog.github.io/2021) (Stanford; Microsoft Semantic Machines)
 
 **Talk**: _TBD_
 
@@ -48,7 +48,7 @@ tags: [Speakers, Archive]
 <br>
 
 <a name="eran_yahav"></a>
-<img align="left" src="../assets/img/portfolio/github.png" width="25%" style="margin: 0px 15px 5px 0px;"> [Eran Yahav](https://nlp4prog.github.io/2021) (Technion, Israel)
+<img align="left" src="../assets/img/portfolio/github.png" width="40%" style="margin: 10%"> [Eran Yahav](https://nlp4prog.github.io/2021) (Technion, Israel)
 
 **Talk**: _TBD_
 

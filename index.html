@@ -1,4 +1,14 @@
 ---
-layout: home
+layout: default
 ---
-### at [TBD 2021](https://acl2020.org/), MMMM DD, 2021.  
+
+<div class="home">
+
+    <div id="main" class="call-out"
+         style="background-image: url('{{ site.header_feature_image | relative_url }}')">
+        <h1> {{ site.header_text | default: "Change <code>header_text</code> in <code>_config.yml</code>"}} </h1>
+    </div>
+
+    {% include blog.html %}
+
+</div>

@@ -22,7 +22,7 @@ tags: [Speakers, Archive]
 # Speaker Details
 
 <a name="julia_hockenmaier"></a>
-<img align="left" src="../assets/img/speakers/Julia_Hockenmaier.jpg" width="40%" height="40%" style="margin: 0px 15px 0px 5px;"> [Julia Hockenmaier](http://juliahmr.cs.illinois.edu/) (UIUC)
+<img align="left" src="../assets/img/portfolio/github.png" width="40%" height="40%" style="margin: 0px 15px 0px 5px;"> [Julia Hockenmaier](http://juliahmr.cs.illinois.edu/) (UIUC)
 
 **Talk**: _TBD_
 

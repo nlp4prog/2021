@@ -2,7 +2,7 @@
 layout: page
 title: Overview
 permalink: /overview/
-feature-img: "assets/img/pexels/travel.jpeg"
+feature-img: "assets/img/pexels/computer.jpeg"
 tags: [Overview, Archive]
 ---
 

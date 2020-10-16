@@ -31,7 +31,7 @@ tags: [Speakers, Archive]
 <br>
 
 <a name="mirella_lapata"></a>
-<img align="left" src="../assets/img/speakers/mirella_lapata.png" width="35%" style="margin: 25px 10px"> [Mirella Lapata](https://homepages.inf.ed.ac.uk/mlap/) (University of Edinburgh)
+<img align="left" src="../assets/img/speakers/mirella_lapata.jpeg" width="35%" style="margin: 25px 10px"> [Mirella Lapata](https://homepages.inf.ed.ac.uk/mlap/) (University of Edinburgh)
 
 **Talk**: _TBD_
 
@@ -40,7 +40,7 @@ tags: [Speakers, Archive]
 <br>
 
 <a name="percy_liang"></a>
-<img align="left" src="../assets/img/speakers/percy_liang.png" width="35%" style="margin: 25px 10px"> [Percy Liang](https://cs.stanford.edu/~pliang/) (Stanford; Microsoft Semantic Machines)
+<img align="left" src="../assets/img/speakers/percy_liang.jpeg" width="35%" style="margin: 25px 10px"> [Percy Liang](https://cs.stanford.edu/~pliang/) (Stanford; Microsoft Semantic Machines)
 
 **Talk**: _TBD_
 
@@ -48,7 +48,7 @@ tags: [Speakers, Archive]
 <br>
 
 <a name="eran_yahav"></a>
-<img align="left" src="../assets/img/speakers/eran_yahav.png" width="35%" style="margin: 25px 10px"> [Eran Yahav](http://www.cs.technion.ac.il/~yahave/) (Technion, Israel)
+<img align="left" src="../assets/img/speakers/eran_yahav.jpg" width="35%" style="margin: 25px 10px"> [Eran Yahav](http://www.cs.technion.ac.il/~yahave/) (Technion, Israel)
 
 **Talk**: _TBD_
 
@@ -57,7 +57,7 @@ tags: [Speakers, Archive]
 <br>
 
 <a name="charles_sutton"></a>
-<img align="left" src="../assets/img/speakers/charles_sutton.png" width="35%" style="margin: 25px 10px"> [Charles Sutton](https://homepages.inf.ed.ac.uk/csutton/) (University of Edinburgh; Google AI)
+<img align="left" src="../assets/img/speakers/charles_sutton.jpg" width="35%" style="margin: 25px 10px"> [Charles Sutton](https://homepages.inf.ed.ac.uk/csutton/) (University of Edinburgh; Google AI)
 
 **Talk**: _TBD_
 
@@ -66,7 +66,7 @@ tags: [Speakers, Archive]
 <br>
 
 <a name="stefanie_tellex"></a>
-<img align="left" src="../assets/img/speakers/stefanie_tellex.png" width="35%" style="margin: 25px 10px"> [Stefanie Tellex](https://cs.brown.edu/people/stellex/) (Brown University)
+<img align="left" src="../assets/img/speakers/stefanie_tellex.jpg" width="35%" style="margin: 25px 10px"> [Stefanie Tellex](https://cs.brown.edu/people/stellex/) (Brown University)
 
 **Talk**: _TBD_
 
@@ -75,7 +75,7 @@ tags: [Speakers, Archive]
 <br>
 
 <a name="lin_tan"></a>
-<img align="left" src="../assets/img/speakers/lin_tan.png" width="35%" style="margin: 25px 10px"> [Lin Tan](https://www.cs.purdue.edu/homes/lintan/) (Purdue University)
+<img align="left" src="../assets/img/speakers/lin_tan.jpg" width="35%" style="margin: 25px 10px"> [Lin Tan](https://www.cs.purdue.edu/homes/lintan/) (Purdue University)
 
 **Talk**: _TBD_
 
@@ -84,7 +84,7 @@ tags: [Speakers, Archive]
 <br>
 
 <a name="brad_myers"></a>
-<img align="left" src="../assets/img/speakers/brad_myers.png" width="35%" style="margin: 25px 10px"> [Brad Myers](https://www.cs.cmu.edu/~bam/) (Carnegie Mellon University)
+<img align="left" src="../assets/img/speakers/brad_myers.jpg" width="35%" style="margin: 25px 10px"> [Brad Myers](https://www.cs.cmu.edu/~bam/) (Carnegie Mellon University)
 
 **Talk**: _TBD_
 

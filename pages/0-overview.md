@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Overview
-permalink: /overview/
+permalink: /
 feature-img: "assets/img/pexels/computer.jpeg"
 tags: [Overview, Archive]
 ---

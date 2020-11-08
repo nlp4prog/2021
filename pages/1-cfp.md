@@ -1,6 +1,6 @@
 ---
 layout: page
-
+title:
 permalink: /cfp/
 feature-img: "assets/img/pexels/computer.jpeg"
 tags: [CFP, Archive]

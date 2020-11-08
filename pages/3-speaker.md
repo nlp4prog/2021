@@ -22,72 +22,115 @@ tags: [Speakers, Archive]
 # Speaker Details
 
 <a name="julia_hockenmaier"></a>
-<img align="left" src="../assets/img/speakers/Julia_Hockenmaier.jpg" width="35%" style="margin: 25px 10px"> [Julia Hockenmaier](http://juliahmr.cs.illinois.edu/) (UIUC)
+<img align="left" src="../assets/img/speakers/Julia_Hockenmaier.jpg" width="200" style="margin: 25px 10px"> [Julia Hockenmaier](http://juliahmr.cs.illinois.edu/) (UIUC)
 
 **Talk**: _TBD_
 
-**Bio**: TBD
+**Bio**:
+Lorem markdownum suspendit ista haerent obambulat motus vestigia lacrimae fert mihi, est! Cura nostras verba maestae vero pars mucrone Salamis accepisse credere. Ille frequentant nescio.
+
+Labore Medea commentaque canduit quoniam vulnere, sensus cum tantoque dum conversa rasilis; sed. Nympha nisi, diducit vix: ire, tu pennisque facta clipei discussisque rapta quamvis te virent Bromumque Libys!
+
+Postquam nudabant et damnarat proripit. Sub ad arcus, non duo praedone peregit, arcum bracchia nec verba extrahit defecerat quoque. Huic Romam movere dubita et ex et silvas fervida duraeque trepida longis celeberrimus?
+
+
 
 <br>
 
 <a name="mirella_lapata"></a>
-<img align="left" src="../assets/img/speakers/mirella_lapata.jpeg" width="35%" style="margin: 25px 10px"> [Mirella Lapata](https://homepages.inf.ed.ac.uk/mlap/) (University of Edinburgh)
+<img align="left" src="../assets/img/speakers/mirella_lapata.jpeg" width="200" style="margin: 25px 10px"> [Mirella Lapata](https://homepages.inf.ed.ac.uk/mlap/) (University of Edinburgh)
 
 **Talk**: _TBD_
 
-**Bio**: TBD
+**Bio**:
+Lorem markdownum suspendit ista haerent obambulat motus vestigia lacrimae fert mihi, est! Cura nostras verba maestae vero pars mucrone Salamis accepisse credere. Ille frequentant nescio.
+
+Labore Medea commentaque canduit quoniam vulnere, sensus cum tantoque dum conversa rasilis; sed. Nympha nisi, diducit vix: ire, tu pennisque facta clipei discussisque rapta quamvis te virent Bromumque Libys!
+
+Postquam nudabant et damnarat proripit. Sub ad arcus, non duo praedone peregit, arcum bracchia nec verba extrahit defecerat quoque. Huic Romam movere dubita et ex et silvas fervida duraeque trepida longis celeberrimus?
 
 <br>
 
 <a name="percy_liang"></a>
-<img align="left" src="../assets/img/speakers/percy_liang.jpeg" width="35%" style="margin: 25px 10px"> [Percy Liang](https://cs.stanford.edu/~pliang/) (Stanford; Microsoft Semantic Machines)
+<img align="left" src="../assets/img/speakers/percy_liang.jpeg" width="200" style="margin: 25px 10px"> [Percy Liang](https://cs.stanford.edu/~pliang/) (Stanford; Microsoft Semantic Machines)
 
 **Talk**: _TBD_
 
-**Bio**: TBD
+**Bio**:
+Lorem markdownum suspendit ista haerent obambulat motus vestigia lacrimae fert mihi, est! Cura nostras verba maestae vero pars mucrone Salamis accepisse credere. Ille frequentant nescio.
+
+Labore Medea commentaque canduit quoniam vulnere, sensus cum tantoque dum conversa rasilis; sed. Nympha nisi, diducit vix: ire, tu pennisque facta clipei discussisque rapta quamvis te virent Bromumque Libys!
+
+Postquam nudabant et damnarat proripit. Sub ad arcus, non duo praedone peregit, arcum bracchia nec verba extrahit defecerat quoque. Huic Romam movere dubita et ex et silvas fervida duraeque trepida longis celeberrimus?
+
 <br>
 
 <a name="eran_yahav"></a>
-<img align="left" src="../assets/img/speakers/eran_yahav.jpg" width="35%" style="margin: 25px 10px"> [Eran Yahav](http://www.cs.technion.ac.il/~yahave/) (Technion, Israel)
+<img align="left" src="../assets/img/speakers/eran_yahav.jpg" width="200" style="margin: 25px 10px"> [Eran Yahav](http://www.cs.technion.ac.il/~yahave/) (Technion, Israel)
 
 **Talk**: _TBD_
 
-**Bio**: TBD
+**Bio**:
+Lorem markdownum suspendit ista haerent obambulat motus vestigia lacrimae fert mihi, est! Cura nostras verba maestae vero pars mucrone Salamis accepisse credere. Ille frequentant nescio.
+
+Labore Medea commentaque canduit quoniam vulnere, sensus cum tantoque dum conversa rasilis; sed. Nympha nisi, diducit vix: ire, tu pennisque facta clipei discussisque rapta quamvis te virent Bromumque Libys!
+
+Postquam nudabant et damnarat proripit. Sub ad arcus, non duo praedone peregit, arcum bracchia nec verba extrahit defecerat quoque. Huic Romam movere dubita et ex et silvas fervida duraeque trepida longis celeberrimus?
 
 <br>
 
 <a name="charles_sutton"></a>
-<img align="left" src="../assets/img/speakers/charles_sutton.jpg" width="35%" style="margin: 25px 10px"> [Charles Sutton](https://homepages.inf.ed.ac.uk/csutton/) (University of Edinburgh; Google AI)
+<img align="left" src="../assets/img/speakers/charles_sutton.jpg" width="200" style="margin: 25px 10px"> [Charles Sutton](https://homepages.inf.ed.ac.uk/csutton/) (University of Edinburgh; Google AI)
 
 **Talk**: _TBD_
 
-**Bio**: TBD
+**Bio**:
+Lorem markdownum suspendit ista haerent obambulat motus vestigia lacrimae fert mihi, est! Cura nostras verba maestae vero pars mucrone Salamis accepisse credere. Ille frequentant nescio.
+
+Labore Medea commentaque canduit quoniam vulnere, sensus cum tantoque dum conversa rasilis; sed. Nympha nisi, diducit vix: ire, tu pennisque facta clipei discussisque rapta quamvis te virent Bromumque Libys!
+
+Postquam nudabant et damnarat proripit. Sub ad arcus, non duo praedone peregit, arcum bracchia nec verba extrahit defecerat quoque. Huic Romam movere dubita et ex et silvas fervida duraeque trepida longis celeberrimus?
 
 <br>
 
 <a name="stefanie_tellex"></a>
-<img align="left" src="../assets/img/speakers/stefanie_tellex.jpg" width="35%" style="margin: 25px 10px"> [Stefanie Tellex](https://cs.brown.edu/people/stellex/) (Brown University)
+<img align="left" src="../assets/img/speakers/stefanie_tellex.jpg" width="200" style="margin: 25px 10px"> [Stefanie Tellex](https://cs.brown.edu/people/stellex/) (Brown University)
 
 **Talk**: _TBD_
 
-**Bio**: TBD
+**Bio**:
+Lorem markdownum suspendit ista haerent obambulat motus vestigia lacrimae fert mihi, est! Cura nostras verba maestae vero pars mucrone Salamis accepisse credere. Ille frequentant nescio.
+
+Labore Medea commentaque canduit quoniam vulnere, sensus cum tantoque dum conversa rasilis; sed. Nympha nisi, diducit vix: ire, tu pennisque facta clipei discussisque rapta quamvis te virent Bromumque Libys!
+
+Postquam nudabant et damnarat proripit. Sub ad arcus, non duo praedone peregit, arcum bracchia nec verba extrahit defecerat quoque. Huic Romam movere dubita et ex et silvas fervida duraeque trepida longis celeberrimus?
 
 <br>
 
 <a name="lin_tan"></a>
-<img align="left" src="../assets/img/speakers/lin_tan.jpg" width="35%" style="margin: 25px 10px"> [Lin Tan](https://www.cs.purdue.edu/homes/lintan/) (Purdue University)
+<img align="left" src="../assets/img/speakers/lin_tan.jpg" width="200" style="margin: 25px 10px"> [Lin Tan](https://www.cs.purdue.edu/homes/lintan/) (Purdue University)
 
 **Talk**: _TBD_
 
-**Bio**: TBD
+**Bio**:
+Lorem markdownum suspendit ista haerent obambulat motus vestigia lacrimae fert mihi, est! Cura nostras verba maestae vero pars mucrone Salamis accepisse credere. Ille frequentant nescio.
+
+Labore Medea commentaque canduit quoniam vulnere, sensus cum tantoque dum conversa rasilis; sed. Nympha nisi, diducit vix: ire, tu pennisque facta clipei discussisque rapta quamvis te virent Bromumque Libys!
+
+Postquam nudabant et damnarat proripit. Sub ad arcus, non duo praedone peregit, arcum bracchia nec verba extrahit defecerat quoque. Huic Romam movere dubita et ex et silvas fervida duraeque trepida longis celeberrimus?
 
 <br>
 
 <a name="brad_myers"></a>
-<img align="left" src="../assets/img/speakers/brad_myers.jpg" width="35%" style="margin: 25px 10px"> [Brad Myers](https://www.cs.cmu.edu/~bam/) (Carnegie Mellon University)
+<img align="left" src="../assets/img/speakers/brad_myers.jpg" width="200" style="margin: 25px 10px"> [Brad Myers](https://www.cs.cmu.edu/~bam/) (Carnegie Mellon University)
 
 **Talk**: _TBD_
 
-**Bio**: TBD
+**Bio**:
+Lorem markdownum suspendit ista haerent obambulat motus vestigia lacrimae fert mihi, est! Cura nostras verba maestae vero pars mucrone Salamis accepisse credere. Ille frequentant nescio.
+
+Labore Medea commentaque canduit quoniam vulnere, sensus cum tantoque dum conversa rasilis; sed. Nympha nisi, diducit vix: ire, tu pennisque facta clipei discussisque rapta quamvis te virent Bromumque Libys!
+
+Postquam nudabant et damnarat proripit. Sub ad arcus, non duo praedone peregit, arcum bracchia nec verba extrahit defecerat quoque. Huic Romam movere dubita et ex et silvas fervida duraeque trepida longis celeberrimus?
 
 <br>

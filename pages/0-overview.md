@@ -1,7 +1,7 @@
 ---
 layout: page
-title: The First Workshop on Natural Language Processing for Programming
-permalink: /overview
+title: Home
+permalink: /
 feature-img: "assets/img/pexels/computer.jpeg"
 tags: [Overview, Archive]
 ---

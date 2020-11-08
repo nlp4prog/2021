@@ -5,6 +5,8 @@ permalink: /cfp/
 feature-img: "assets/img/pexels/computer.jpeg"
 tags: [CFP, Archive]
 ---
+# Call for Papers
+
 ## Dates
 
 All deadlines are 11:59 PM Pacific time.

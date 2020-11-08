@@ -6,7 +6,7 @@ layout: default
 
   <header id="main" style="background-image: url('{{ page.feature-img | relative_url }}')">
    <div class="title-padder">
-      {% if page.hide_title %}
+      {% if page.hide_title !=true %}
         <div class="feature-image-padding"></div>
       {% else %}
         <h1 id="{{ page.title | default: "NLP4prog1" | cgi_escape }}" class="title"> {{ page.title }}</h1>

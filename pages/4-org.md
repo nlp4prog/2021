@@ -12,7 +12,7 @@ tags: [Organization, Archive]
 + [Ziyu Yao](http://web.cse.ohio-state.edu/~yao.470/) (The Ohio State University)
 + [Greg Durrett](https://www.cs.utexas.edu/~gdurrett) (UT Austin)
 + [Milos Gligoric](http://users.ece.utexas.edu/~gligoric/) (UT Austin)
-+ [Junyi Jessy](https://jjessyli.github.io)(UT Austin)
++ [Junyi Jessy Li](https://jjessyli.github.io)(UT Austin)
 + [Ray Mooney](https://www.cs.utexas.edu/~mooney/) (UT Austin)
 + [Graham Neubig](http://www.phontron.com/index.php?lang=en) (Carnegie Mellon University)
 + [Yu Su](http://ysu1989.github.io/) (The Ohio State University/Microsoft Semantic Machines)

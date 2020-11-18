@@ -17,6 +17,8 @@ tags: [Speakers, Archive]
 + *[Lin Tan](#lin_tan) (Purdue University)
 + *[Brad Myers](#brad_myers) (Carnegie Mellon University)
 
+(*: conditional on dates or travel constraints)
+
 <br>
 
 # Speaker Details

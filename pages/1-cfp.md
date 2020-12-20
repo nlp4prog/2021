@@ -10,8 +10,8 @@ feature-img: "assets/img/pexels/computer.jpeg"
 
 All deadlines are 11:59 PM Pacific time.
 
-+ First Call for Workshop Papers: **December 21, 2020 **
-+ First Call for Workshop Papers: **February 15, 2021 **
++ First Call for Workshop Papers: **December 21, 2020**
++ First Call for Workshop Papers: **February 15, 2021**
 + Workshop Paper Due Date: **April 26, 2021** 
 + Notification of acceptance: **May 28, 2021**
 + Camera-ready papers due: **June 7, 2021**

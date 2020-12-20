@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Home
+title: Overview
 permalink: /
 feature-img: "assets/img/pexels/computer.jpeg"
 tags: [Overview, Archive]

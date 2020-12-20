@@ -34,6 +34,8 @@ feature-img: "assets/img/pexels/computer.jpeg"
 <br />
 <br />
 <br />
+<br />
+<br />
 
 
 
@@ -42,13 +44,11 @@ feature-img: "assets/img/pexels/computer.jpeg"
 
 **Talk**: _TBD_
 
-**Bio**:
-Lorem markdownum suspendit ista haerent obambulat motus vestigia lacrimae fert mihi, est! Cura nostras verba maestae vero pars mucrone Salamis accepisse credere. Ille frequentant nescio.
+**Bio**: _TBD_
 
-Labore Medea commentaque canduit quoniam vulnere, sensus cum tantoque dum conversa rasilis; sed. Nympha nisi, diducit vix: ire, tu pennisque facta clipei discussisque rapta quamvis te virent Bromumque Libys!
 
-Postquam nudabant et damnarat proripit. Sub ad arcus, non duo praedone peregit, arcum bracchia nec verba extrahit defecerat quoque. Huic Romam movere dubita et ex et silvas fervida duraeque trepida longis celeberrimus?
-
+<br />
+<br />
 <br />
 <br />
 <br />
@@ -65,21 +65,28 @@ Percy Liang is an Associate Professor of Computer Science at Stanford University
 
 His awards include the Presidential Early Career Award for Scientists and Engineers (2019), IJCAI Computers and Thought Award (2016), an NSF CAREER Award (2016), a Sloan Research Fellowship (2015), and a Microsoft Research Faculty Fellowship (2014).
 
-<br>
+
+<br />
+<br />
+<br />
+<br />
+<br />
+
+
 
 <a name="eran_yahav"></a>
 <img align="left" src="../assets/img/speakers/eran_yahav.jpg" width="400px" style="margin: 5px"> [Eran Yahav](http://www.cs.technion.ac.il/~yahave/) (Technion, Israel)
 
 **Talk**: _TBD_
 
-**Bio**:
-Lorem markdownum suspendit ista haerent obambulat motus vestigia lacrimae fert mihi, est! Cura nostras verba maestae vero pars mucrone Salamis accepisse credere. Ille frequentant nescio.
+**Bio**: _TBD_
 
-Labore Medea commentaque canduit quoniam vulnere, sensus cum tantoque dum conversa rasilis; sed. Nympha nisi, diducit vix: ire, tu pennisque facta clipei discussisque rapta quamvis te virent Bromumque Libys!
+<br />
+<br />
+<br />
+<br />
+<br />
 
-Postquam nudabant et damnarat proripit. Sub ad arcus, non duo praedone peregit, arcum bracchia nec verba extrahit defecerat quoque. Huic Romam movere dubita et ex et silvas fervida duraeque trepida longis celeberrimus?
-
-<br>
 
 <a name="charles_sutton"></a>
 <img align="left" src="../assets/img/speakers/charles_sutton.jpg" width="400px" style="margin: 5px"> [Charles Sutton](https://homepages.inf.ed.ac.uk/csutton/) (University of Edinburgh; Google AI)
@@ -89,21 +96,28 @@ Postquam nudabant et damnarat proripit. Sub ad arcus, non duo praedone peregit, 
 **Bio**:
 Charles Sutton is a Research Scientist at Google Brain and a Reader (equivalent to Associate Professor: http://bit.ly/1W9UhqT) in Machine Learning at the University of Edinburgh. He has published over 50 papers in probabilistic machine learning and deep learning, motivated by the demands of a broad range of applications, including natural language processing (NLP), analysis of computer systems, sustainable energy, data analysis, and software engineering. His work in software engineering has won an ACM Distinguished Paper Award. His PhD is from the University of Massachusetts Amherst, and he has done postdoctoral work at the University of California Berkeley. He has served as Director of the EPSRC Centre for Doctoral Training in Data Science at the University of Edinburgh. He is a Fellow of the Alan Turing Institute, the UK’s national research institute for artificial intelligence and data science.
 
-<br>
+<br />
+<br />
+<br />
+<br />
+<br />
+
 
 <a name="stefanie_tellex"></a>
 <img align="left" src="../assets/img/speakers/stefanie_tellex.jpg" width="400px" style="margin: 5px"> [Stefanie Tellex](https://cs.brown.edu/people/stellex/) (Brown University)
 
 **Talk**: _TBD_
 
-**Bio**:
-Lorem markdownum suspendit ista haerent obambulat motus vestigia lacrimae fert mihi, est! Cura nostras verba maestae vero pars mucrone Salamis accepisse credere. Ille frequentant nescio.
+**Bio**: _TBD_
 
-Labore Medea commentaque canduit quoniam vulnere, sensus cum tantoque dum conversa rasilis; sed. Nympha nisi, diducit vix: ire, tu pennisque facta clipei discussisque rapta quamvis te virent Bromumque Libys!
 
-Postquam nudabant et damnarat proripit. Sub ad arcus, non duo praedone peregit, arcum bracchia nec verba extrahit defecerat quoque. Huic Romam movere dubita et ex et silvas fervida duraeque trepida longis celeberrimus?
+<br />
+<br />
+<br />
+<br />
+<br />
 
-<br>
+
 
 <a name="lin_tan"></a>
 <img align="left" src="../assets/img/speakers/lin_tan.jpg" width="400px" style="margin: 5px"> [Lin Tan](https://www.cs.purdue.edu/homes/lintan/) (Purdue University)
@@ -118,7 +132,14 @@ She received her PhD from the University of Illinois, Urbana-Champaign. Prior to
 Dr. Tan was a recipient of Canada Research Chair (one of Canada's highest research honors), an NSERC Discovery Accelerator Supplements Award, an Ontario Early Researcher Award, an Ontario Professional Engineers Award--Engineering Medal for Young Engineer, J.P.Morgan AI Research Faculty Award, two Google Faculty Research Awards, two Facebook research awards, and an IBM CAS Research Project of the Year Award. Dr. Tan's co-authored papers have received ACM SIGSOFT Distinguished Paper Awards at ASE 2020, MSR 2018, and FSE 2016; and IEEE Micro's Top Picks in 2006.
 
 She is/was the program (co-)chair of FSE 2020 Visions & Reflections, ICSE-SMeW 2019, SOSP 2019 Scholarship, MSR 2017, ICSE-NIER 2017, and ICSME-ERA 2015. She is an associate editor of IEEE Transactions on Software Engineering (2017-present) and an editor of the Springer Empirical Software Engineering Journal (2015-present).
-<br>
+
+<br />
+<br />
+<br />
+<br />
+<br />
+
+
 
 <a name="brad_myers"></a>
 <img align="left" src="../assets/img/speakers/brad_myers.jpg" width="400px" style="margin: 5px"> [Brad Myers](https://www.cs.cmu.edu/~bam/) (Carnegie Mellon University)

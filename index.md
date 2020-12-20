@@ -11,8 +11,8 @@ feature-img: "assets/img/pexels/computer.jpeg"
 </style>
 
 <div class="home-subtitle">
-  co-located with <a href="https://2021.aclweb.org/">ACL-IJCNLP 2021</a> Bangkok, Thailand <br>
-  August 5/6, 2021 <br>
+  <h4> Co-located with <a href="https://2021.aclweb.org/">ACL-IJCNLP 2021</a> Bangkok, Thailand </h4> <br>
+  <h4> August 5/6, 2021 </h4> <br>
   [WEBSITE UNDER CONSTRUCTION ] <br> 
 </div>
 

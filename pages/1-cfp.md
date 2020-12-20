@@ -10,10 +10,12 @@ feature-img: "assets/img/pexels/computer.jpeg"
 
 All deadlines are 11:59 PM Pacific time.
 
-+ Workshop Paper Due Date: **MMMM DD, 2021** 
-+ Notification of acceptance: **MMMM DD, 2021**
-+ Camera-ready papers due: **MMMM DD, 2021**
-+ Workshop date: **MMMM DD, 2021**
++ First Call for Workshop Papers: **December 21, 2020 **
++ First Call for Workshop Papers: **February 15, 2021 **
++ Workshop Paper Due Date: **April 26, 2021** 
++ Notification of acceptance: **May 28, 2021**
++ Camera-ready papers due: **June 7, 2021**
++ Workshop date: **August 5 or 6, 2021**
 
 
 ## List of Topics 

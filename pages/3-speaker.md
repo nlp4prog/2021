@@ -56,7 +56,7 @@ feature-img: "assets/img/pexels/computer.jpeg"
 
 
 <a name="percy_liang"></a>
-<img align="left" src="../assets/img/speakers/percy_liang.jpeg" width="400px" padding="0px 0px 0px 0px"> [Percy Liang](https://cs.stanford.edu/~pliang/) (Stanford; Microsoft Semantic Machines)
+<img align="left" src="../assets/img/speakers/percy_liang.jpeg" width="400px" style="vertical-align:middle;margin:0px 0px"> [Percy Liang](https://cs.stanford.edu/~pliang/) (Stanford; Microsoft Semantic Machines)
 
 **Talk**: _TBD_
 

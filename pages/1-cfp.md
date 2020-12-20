@@ -3,7 +3,6 @@ layout: page
 title: Call for Papers
 permalink: /cfp/
 feature-img: "assets/img/pexels/computer.jpeg"
-tags: [CFP, Archive]
 ---
 # Call for Papers
 

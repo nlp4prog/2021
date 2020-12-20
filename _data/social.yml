@@ -1,6 +1,6 @@
 # Icons on the footer
 rss: 
-email_address: true  #  nlp4prog@gmail.com
+email_address: nlp4prog@gmail.com
 behance:
 bitbucket:
 dribbble:
@@ -18,7 +18,7 @@ stack_overflow:
 stack_exchange:   # Full URL
 steam:
 tumblr:
-twitter: true # @hhsun1 
+twitter: @hhsun1 
 vimeo:
 wordpress:
 youtube:          # Youtube channel token like: UCqECaJ8Gagnn7YCbPEzWH6g

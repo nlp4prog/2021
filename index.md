@@ -11,12 +11,12 @@ feature-img: "assets/img/pexels/computer.jpeg"
 </style>
 
 <div class="home-subtitle">
-  <b> Co-located with <a href="https://2021.aclweb.org/">ACL-IJCNLP 2021</a> Bangkok, Thailand </b> <br>
+  <b> Co-located with </b> <a href="https://2021.aclweb.org/">ACL-IJCNLP 2021</a> <b> Bangkok, Thailand </b> <br>
    <b> August 5/6, 2021  </b> <br><br>
   [WEBSITE UNDER CONSTRUCTION ] 
 </div>
 
-#
+
 
 The proliferation of programming-related platforms such as GitHub and Stack Overflow has led to large amounts of rich, 
 open-source data consisting of programs associated with natural language, such as natural language questions and answers with code snippets, 

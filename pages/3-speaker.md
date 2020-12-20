@@ -23,23 +23,22 @@ feature-img: "assets/img/pexels/computer.jpeg"
 # Speaker Details
 
 <a name="julia_hockenmaier"></a>
-<img align="left" src="../assets/img/speakers/Julia_Hockenmaier.jpg" width="400px" style="margin: 5px"> [Julia Hockenmaier](http://juliahmr.cs.illinois.edu/) (UIUC)
+<img align="left" src="../assets/img/speakers/Julia_Hockenmaier.jpg" width="400px" style="margin: 1px"> [Julia Hockenmaier](http://juliahmr.cs.illinois.edu/) (UIUC)
 
 **Talk**: _TBD_
 
-**Bio**:
-Lorem markdownum suspendit ista haerent obambulat motus vestigia lacrimae fert mihi, est! Cura nostras verba maestae vero pars mucrone Salamis accepisse credere. Ille frequentant nescio.
-
-Labore Medea commentaque canduit quoniam vulnere, sensus cum tantoque dum conversa rasilis; sed. Nympha nisi, diducit vix: ire, tu pennisque facta clipei discussisque rapta quamvis te virent Bromumque Libys!
-
-Postquam nudabant et damnarat proripit. Sub ad arcus, non duo praedone peregit, arcum bracchia nec verba extrahit defecerat quoque. Huic Romam movere dubita et ex et silvas fervida duraeque trepida longis celeberrimus?
+**Bio**: _TBD_ 
 
 
 
-<br>
+<br />
+<br />
+<br />
+
+
 
 <a name="mirella_lapata"></a>
-<img align="left" src="../assets/img/speakers/mirella_lapata.jpeg" width="400px" style="margin: 5px"> [Mirella Lapata](https://homepages.inf.ed.ac.uk/mlap/) (University of Edinburgh)
+<img align="left" src="../assets/img/speakers/mirella_lapata.jpeg" width="400px" style="margin: 1px"> [Mirella Lapata](https://homepages.inf.ed.ac.uk/mlap/) (University of Edinburgh)
 
 **Talk**: _TBD_
 
@@ -50,7 +49,11 @@ Labore Medea commentaque canduit quoniam vulnere, sensus cum tantoque dum conver
 
 Postquam nudabant et damnarat proripit. Sub ad arcus, non duo praedone peregit, arcum bracchia nec verba extrahit defecerat quoque. Huic Romam movere dubita et ex et silvas fervida duraeque trepida longis celeberrimus?
 
-<br>
+<br />
+<br />
+<br />
+
+
 
 <a name="percy_liang"></a>
 <img align="left" src="../assets/img/speakers/percy_liang.jpeg" width="400px" style="margin: 5px"> [Percy Liang](https://cs.stanford.edu/~pliang/) (Stanford; Microsoft Semantic Machines)

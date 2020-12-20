@@ -7,7 +7,7 @@ dribbble:
 facebook:
 flickr:
 gitlab:
-github: #"sylhare"
+github: 
 instagram:
 keybase:
 linkedin:         # Full URL
@@ -18,14 +18,14 @@ stack_overflow:
 stack_exchange:   # Full URL
 steam:
 tumblr:
-twitter:          @hhsun1 # "twitter username"
+twitter:          @hhsun1 
 vimeo:
 wordpress:
 youtube:          # Youtube channel token like: UCqECaJ8Gagnn7YCbPEzWH6g
 
 # rss specify feed path
 feed:
-  path: #feed.xml
+  path: 
 
 # Share button options
 share:

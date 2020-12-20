@@ -6,7 +6,7 @@ url: "https://nlp4prog.github.io"
 title: NLP4Prog Workshop 2021                                   # site's title
 description: "Natural Language Processing for Programming workshop 2021"      # used by search engines
 avatar: #assets/img/triangle.png                         # Empty for no avatar in navbar
-favicon: assets/favicon1.ico                             # Icon displayed in the tab
+favicon: assets/favicon.ico                             # Icon displayed in the tab
 
 # Header and footer text
 header_text: The First Workshop on Natural Language Processing for Programming  # Change Blog header text

@@ -68,7 +68,6 @@ His awards include the Presidential Early Career Award for Scientists and Engine
 
 <br />
 <br />
-<br />
 
 
 
@@ -96,7 +95,6 @@ Charles Sutton is a Research Scientist at Google Brain and a Reader (equivalent 
 
 <br />
 <br />
-<br />
 
 
 <a name="stefanie_tellex"></a>
@@ -107,6 +105,9 @@ Charles Sutton is a Research Scientist at Google Brain and a Reader (equivalent 
 **Bio**: _TBD_
 
 
+<br />
+<br />
+<br />
 <br />
 <br />
 <br />
@@ -133,12 +134,11 @@ She is/was the program (co-)chair of FSE 2020 Visions & Reflections, ICSE-SMeW 2
 
 <br />
 <br />
-<br />
 
 
 
 <a name="brad_myers"></a>
-<img align="left" src="../assets/img/speakers/brad_myers.jpg" width="600px"> [Brad Myers](https://www.cs.cmu.edu/~bam/) (Carnegie Mellon University)
+<img align="left" src="../assets/img/speakers/brad_myers.jpg" width="500px"> [Brad Myers](https://www.cs.cmu.edu/~bam/) (Carnegie Mellon University)
 
 **Talk**: _TBD_
 

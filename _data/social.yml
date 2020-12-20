@@ -1,6 +1,6 @@
 # Icons on the footer
 rss: 
-email_address: nlp4prog@gmail.com
+email_address: true
 behance:
 bitbucket:
 dribbble:
@@ -37,4 +37,4 @@ share:
   reddit: true
   linkedin:
   wordpress:
-  email: true
+  email:  nlp4prog@gmail.com

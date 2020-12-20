@@ -23,7 +23,7 @@ feature-img: "assets/img/pexels/computer.jpeg"
 # Speaker Details
 
 <a name="julia_hockenmaier"></a>
-<img align="left" src="../assets/img/speakers/Julia_Hockenmaier.jpg" width="400px" style="margin: 1px"> [Julia Hockenmaier](http://juliahmr.cs.illinois.edu/) (UIUC)
+<img align="left" src="../assets/img/speakers/Julia_Hockenmaier.jpg" width="400px"> [Julia Hockenmaier](http://juliahmr.cs.illinois.edu/) (UIUC)
 
 **Talk**: _TBD_
 
@@ -40,7 +40,7 @@ feature-img: "assets/img/pexels/computer.jpeg"
 
 
 <a name="mirella_lapata"></a>
-<img align="left" src="../assets/img/speakers/mirella_lapata.jpeg" width="400px" style="margin: 1px"> [Mirella Lapata](https://homepages.inf.ed.ac.uk/mlap/) (University of Edinburgh)
+<img align="left" src="../assets/img/speakers/mirella_lapata.jpeg" width="400px"> [Mirella Lapata](https://homepages.inf.ed.ac.uk/mlap/) (University of Edinburgh)
 
 **Talk**: _TBD_
 
@@ -56,7 +56,7 @@ feature-img: "assets/img/pexels/computer.jpeg"
 
 
 <a name="percy_liang"></a>
-<img align="left" src="../assets/img/speakers/percy_liang.jpeg" width="400px" style="margin: 5px"> [Percy Liang](https://cs.stanford.edu/~pliang/) (Stanford; Microsoft Semantic Machines)
+<img align="left" src="../assets/img/speakers/percy_liang.jpeg" width="400px"> [Percy Liang](https://cs.stanford.edu/~pliang/) (Stanford; Microsoft Semantic Machines)
 
 **Talk**: _TBD_
 
@@ -69,13 +69,11 @@ His awards include the Presidential Early Career Award for Scientists and Engine
 <br />
 <br />
 <br />
-<br />
-<br />
 
 
 
 <a name="eran_yahav"></a>
-<img align="left" src="../assets/img/speakers/eran_yahav.jpg" width="400px" style="margin: 5px"> [Eran Yahav](http://www.cs.technion.ac.il/~yahave/) (Technion, Israel)
+<img align="left" src="../assets/img/speakers/eran_yahav.jpg" width="400px"> [Eran Yahav](http://www.cs.technion.ac.il/~yahave/) (Technion, Israel)
 
 **Talk**: _TBD_
 
@@ -89,7 +87,7 @@ His awards include the Presidential Early Career Award for Scientists and Engine
 
 
 <a name="charles_sutton"></a>
-<img align="left" src="../assets/img/speakers/charles_sutton.jpg" width="400px" style="margin: 5px"> [Charles Sutton](https://homepages.inf.ed.ac.uk/csutton/) (University of Edinburgh; Google AI)
+<img align="left" src="../assets/img/speakers/charles_sutton.jpg" width="400px"> [Charles Sutton](https://homepages.inf.ed.ac.uk/csutton/) (University of Edinburgh; Google AI)
 
 **Talk**: _TBD_
 
@@ -99,12 +97,10 @@ Charles Sutton is a Research Scientist at Google Brain and a Reader (equivalent 
 <br />
 <br />
 <br />
-<br />
-<br />
 
 
 <a name="stefanie_tellex"></a>
-<img align="left" src="../assets/img/speakers/stefanie_tellex.jpg" width="400px" style="margin: 5px"> [Stefanie Tellex](https://cs.brown.edu/people/stellex/) (Brown University)
+<img align="left" src="../assets/img/speakers/stefanie_tellex.jpg" width="400px"> [Stefanie Tellex](https://cs.brown.edu/people/stellex/) (Brown University)
 
 **Talk**: _TBD_
 
@@ -116,11 +112,13 @@ Charles Sutton is a Research Scientist at Google Brain and a Reader (equivalent 
 <br />
 <br />
 <br />
+<br />
+<br />
 
 
 
 <a name="lin_tan"></a>
-<img align="left" src="../assets/img/speakers/lin_tan.jpg" width="400px" style="margin: 5px"> [Lin Tan](https://www.cs.purdue.edu/homes/lintan/) (Purdue University)
+<img align="left" src="../assets/img/speakers/lin_tan.jpg" width="400px"> [Lin Tan](https://www.cs.purdue.edu/homes/lintan/) (Purdue University)
 
 **Talk**: _TBD_
 
@@ -136,13 +134,11 @@ She is/was the program (co-)chair of FSE 2020 Visions & Reflections, ICSE-SMeW 2
 <br />
 <br />
 <br />
-<br />
-<br />
 
 
 
 <a name="brad_myers"></a>
-<img align="left" src="../assets/img/speakers/brad_myers.jpg" width="400px" style="margin: 5px"> [Brad Myers](https://www.cs.cmu.edu/~bam/) (Carnegie Mellon University)
+<img align="left" src="../assets/img/speakers/brad_myers.jpg" width="600px"> [Brad Myers](https://www.cs.cmu.edu/~bam/) (Carnegie Mellon University)
 
 **Talk**: _TBD_
 

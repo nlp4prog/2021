@@ -3,7 +3,6 @@ layout: page
 title: Organization
 permalink: /organization/
 feature-img: "assets/img/pexels/computer.jpeg"
-tags: [Organization, Archive]
 ---
 
 # Organizers

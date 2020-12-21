@@ -16,7 +16,7 @@ feature-img: "assets/img/pexels/computer.jpeg"
 + *[Lin Tan](#lin_tan) (Purdue University)
 + *[Brad Myers](#brad_myers) (Carnegie Mellon University)
 
-(*: conditional on dates or travel constraints)
+(*: conditional on travel constraints)
 
 <br>
 

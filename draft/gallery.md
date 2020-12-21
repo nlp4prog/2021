@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Gallery
+title: Gallery_draft
 subtitle: Photos from the workshop
 permalink: /gallery/
 gallery_path: "assets/img/live_workshop"

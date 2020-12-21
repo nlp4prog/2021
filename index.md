@@ -13,7 +13,7 @@ feature-img: "assets/img/pexels/computer.jpeg"
 <div class="home-subtitle">
   <b> Co-located with <a href="https://2021.aclweb.org/">ACL-IJCNLP 2021</a> Bangkok, Thailand </b> <br>
    <b> August 5/6, 2021  </b> <br><br>
-  [WEBSITE UNDER CONSTRUCTION ] 
+  Until further notics the workshop is virtual
 </div>
 
 

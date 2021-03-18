@@ -11,9 +11,8 @@ feature-img: "assets/img/pexels/computer.jpeg"
 </style>
 
 <div class="home-subtitle">
-  <b> Co-located with <a href="https://2021.aclweb.org/">ACL-IJCNLP 2021</a> Bangkok, Thailand </b> <br>
+  <b> Co-located with <a href="https://2021.aclweb.org/">ACL-IJCNLP 2021</a> (virtual) </b> <br>
    <b> August 5/6, 2021  </b> <br><br>
-  Until further notice the workshop is <b>virtual</b>
 </div>
 <h4> &nbsp;</h4>
 
@@ -29,4 +28,4 @@ together to review the recent advances related to NLP4Prog and discuss the remai
 While there are similar workshops such as NLP-SEA and NLPaSE held recently, most of them are in conjunction with software engineering venues; 
 to the best of our knowledge, this is the first workshop focusing on NLP for programming and to be held in NLP venues.
 
-
+<b>Please follow us on <a href="https://twitter.com/Nlp4Prog">Twitter (@NLP4Prog)</a> and stay tuned!</b>

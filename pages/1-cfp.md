@@ -37,7 +37,9 @@ We welcome two types of papers: regular workshop papers and non-archival submiss
 
 In addition, We welcome papers on relevant topics that are <i>under review</i> or <i>to be submitted to</i> other venues (including the ACL-IJCNLP 2021 main conference). However, these papers must follow the regular workshop paper format and will not be included in the workshop proceedings.
 
-For questions about the submission guidelines, please contact workshop organizers via nlp4prog@gmail.com.
+**Update March 27th: We do not set any anonimity period (e.g., submitting to arXiv concurrently is allowed).**
+
+For questions about the submission guidelines, please contact workshop organizers via **nlp4prog@gmail.com**.
 
 
 

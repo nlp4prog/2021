@@ -12,11 +12,9 @@ feature-img: "assets/img/pexels/computer.jpeg"
 + [Percy Liang](#percy_liang) (Stanford; Microsoft Semantic Machines)
 + [Eran Yahav](#eran_yahav) (Technion, Israel)
 + [Charles Sutton](#eran_yahav) (University of Edinburgh)
-+ *[Stefanie Tellex](#stefanie_tellex) (Brown University)
-+ *[Lin Tan](#lin_tan) (Purdue University)
-+ *[Brad Myers](#brad_myers) (Carnegie Mellon University)
-
-(*) conditional on travel constraints
++ [Stefanie Tellex](#stefanie_tellex) (Brown University)
++ [Lin Tan](#lin_tan) (Purdue University)
++ [Brad Myers](#brad_myers) (Carnegie Mellon University)
 
 <br>
 

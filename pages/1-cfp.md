@@ -15,6 +15,8 @@ All deadlines are 11:59 PM AoE time.
 + Camera-ready papers due: **June 7, 2021**
 + Workshop date: **August 5 or 6, 2021**
 
+**Update March 27th: We do not set any anonimity period (e.g., submitting to arXiv concurrently is allowed).**
+
 
 ## List of Topics 
 
@@ -37,7 +39,7 @@ We welcome two types of papers: regular workshop papers and non-archival submiss
 
 In addition, We welcome papers on relevant topics that are <i>under review</i> or <i>to be submitted to</i> other venues (including the ACL-IJCNLP 2021 main conference). However, these papers must follow the regular workshop paper format and will not be included in the workshop proceedings.
 
-**Update March 27th: We do not set any anonimity period (e.g., submitting to arXiv concurrently is allowed).**
+**Note to authors: While you submit your paper through Softconf (<a href="https://www.softconf.com/acl2021/w07_nlp4prog/">https://www.softconf.com/acl2021/w07_nlp4prog/</a>), please select the "Submission Type" properly based on the guidelines.**
 
 For questions about the submission guidelines, please contact workshop organizers via **nlp4prog@gmail.com**.
 

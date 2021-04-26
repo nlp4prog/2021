@@ -10,7 +10,7 @@ feature-img: "assets/img/pexels/computer.jpeg"
 
 All deadlines are 11:59 PM AoE time.
 
-+ Workshop Paper Due Date: **April 26, 2021** 
++ Workshop Paper Due Date: ~~April 26, 2021~~ **May 3, 2021 (extended)** 
 + Notification of acceptance: **May 28, 2021**
 + Camera-ready papers due: **June 7, 2021**
 + Workshop date: **August 5 or 6, 2021**

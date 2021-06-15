@@ -27,7 +27,7 @@ Author(s): Artem Popov, Dmitrii Orekhov, Denis Litvinov, Nikolay Korolev and Gle
 +  CoTexT: Multi-task Learning with Code-Text Transformer <br>
 Author(s): Long Phan, Hieu Tran, Daniel Le, Hieu Nguyen, James Annibal, Alec Peltekian and Yanfang Ye
 +  DIRECT : A Transformer-based Model for Decompiled Identifier Renaming <br>
-Author(s): Vikram Nitin, Anthony Saieva, Baishakhi Ray and Gail Kaiser (vikram.nitin@columbia.edu)
+Author(s): Vikram Nitin, Anthony Saieva, Baishakhi Ray and Gail Kaiser 
 +  Reading StackOverflow Encourages Cheating: Adding Question Text Improves Extractive Code Generation <br>
 Author(s): Gabriel Orlanski and Alex Gittens
 +  Bag-of-Words Baselines for Semantic Code Search <br>

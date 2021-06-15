@@ -11,4 +11,10 @@ TBD
 
 # Accepted Papers
 
-TBD
+## Regular Papers
++ CommitBERT: Commit Message Generation Using Pre-Trained Programming Language Model <br>
+Author(s): Tae Hwan Jung
+
+## Non-Archival Papers
++ IdBench: Evaluating Semantic Representations of Identifier Names in Source Code <br>
+Author(s): Yaza Wainakh, Moiz Rauf and Michael Pradel

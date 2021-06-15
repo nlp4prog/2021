@@ -37,6 +37,7 @@ Author(s): Xinyu Zhang, Ji Xin, Andrew Yates and Jimmy Lin
 
 ## Non-Archival Papers
 + IdBench: Evaluating Semantic Representations of Identifier Names in Source Code <br>
+<!-- Author(s): Catherine Wong, Kevin Ellis, Jacob Andreas and Joshua Tenenbaum -->
 + Leveraging Language for Abstraction and Program Search <br>
 +  ArcaneQA: Strongly Generalizable Question Answering on Large-Scale Knowledge Bases <br>
 +  Text2App: A Framework for Creating Android Apps from Text Descriptions <br>

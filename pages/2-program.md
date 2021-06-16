@@ -37,15 +37,15 @@ Author(s): Xinyu Zhang, Ji Xin, Andrew Yates and Jimmy Lin
 
 ## Non-Archival Papers
 + IdBench: Evaluating Semantic Representations of Identifier Names in Source Code <br>
-<!-- Author(s): Yaza Wainakh, Moiz Rauf and Michael Pradel -->
+Author(s): Yaza Wainakh, Moiz Rauf and Michael Pradel
 + Leveraging Language for Abstraction and Program Search <br>
-<!-- Author(s): Catherine Wong, Kevin Ellis, Jacob Andreas and Joshua Tenenbaum -->
+Author(s): Catherine Wong, Kevin Ellis, Jacob Andreas and Joshua Tenenbaum
 +  ArcaneQA: Strongly Generalizable Question Answering on Large-Scale Knowledge Bases <br>
 <!-- Author(s): Yu Gu and Yu Su -->
 +  Text2App: A Framework for Creating Android Apps from Text Descriptions <br>
 <!-- Author(s): Masum Hasan, Kazi Sajeed Mehrab, Wasi Ahmad and Rifat Shahriyar -->
 +  CoDesc: A Large Code–Description Parallel Dataset <br>
-<!-- Author(s): Masum Hasan, Tanveer Muttaqueen, Abdullah Al Ishtiaq, Kazi Sajeed Mehrab, Md. Mahim Anjum Haque, Tahmid Hasan, Wasi Ahmad, Anindya Iqbal and Rifat Shahriyar  -->
+Author(s): Masum Hasan, Tanveer Muttaqueen, Abdullah Al Ishtiaq, Kazi Sajeed Mehrab, Md. Mahim Anjum Haque, Tahmid Hasan, Wasi Ahmad, Anindya Iqbal and Rifat Shahriyar 
 +  Energy-Based Models for Code Generation under Compilability Constraints <br>
 <!-- Author(s): Tomasz Korbak, Hady Elsahar, GermÃ¡n Kruszewski and Marc Dymetman -->
 +  SpecNFS: A Challenge Dataset Towards Extracting Formal Models from Natural Language Specifications <br>
@@ -59,7 +59,7 @@ Author(s): Xinyu Zhang, Ji Xin, Andrew Yates and Jimmy Lin
 +  Draw Me a Flower: Grounding Abstract Structures in Executable Instructions <br>
 <!-- Author(s): Royi Lachmy, Valentina Pyatkin and Reut Tsarfaty  -->
 +  Unified Pre-training for Program Understanding and Generation <br>
-<!-- Author(s): Wasi Ahmad, Saikat Chakraborty, Baishakhi Ray and Kai-Wei Chang -->
+Author(s): Wasi Ahmad, Saikat Chakraborty, Baishakhi Ray and Kai-Wei Chang
 +  Communicating Natural Programs to Humans and Machines <br>
 <!-- Author(s): Sam Acquaviva, Yewen Pu, Marta Kryven, Theodoros Sechopoulos, MH Tessler and Joshua Tenenbaum -->
 +  Community-Driven Alignment of Natural and Programming Languages <br>

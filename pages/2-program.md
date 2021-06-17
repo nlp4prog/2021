@@ -57,7 +57,7 @@ Author(s): Masum Hasan, Tanveer Muttaqueen, Abdullah Al Ishtiaq, Kazi Sajeed Meh
 + Backdoors in Neural Models of Source Code <br>
 <!-- Author(s): Goutham Ramakrishnan and Aws Albarghouthi -->
 +  Draw Me a Flower: Grounding Abstract Structures in Executable Instructions <br>
-<!-- Author(s): Royi Lachmy, Valentina Pyatkin and Reut Tsarfaty  -->
+Author(s): Royi Lachmy, Valentina Pyatkin and Reut Tsarfaty 
 +  Unified Pre-training for Program Understanding and Generation <br>
 Author(s): Wasi Ahmad, Saikat Chakraborty, Baishakhi Ray and Kai-Wei Chang
 +  Communicating Natural Programs to Humans and Machines <br>

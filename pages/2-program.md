@@ -64,15 +64,15 @@ Author(s): Catherine Wong, Kevin Ellis, Jacob Andreas and Joshua Tenenbaum
 +  ArcaneQA: Strongly Generalizable Question Answering on Large-Scale Knowledge Bases <br>
 <!-- Author(s): Yu Gu and Yu Su -->
 +  Text2App: A Framework for Creating Android Apps from Text Descriptions <br>
-<!-- Author(s): Masum Hasan, Kazi Sajeed Mehrab, Wasi Ahmad and Rifat Shahriyar -->
+Author(s): Masum Hasan, Kazi Sajeed Mehrab, Wasi Ahmad and Rifat Shahriyar
 +  CoDesc: A Large Code–Description Parallel Dataset <br>
 Author(s): Masum Hasan, Tanveer Muttaqueen, Abdullah Al Ishtiaq, Kazi Sajeed Mehrab, Md. Mahim Anjum Haque, Tahmid Hasan, Wasi Ahmad, Anindya Iqbal and Rifat Shahriyar 
 +  Energy-Based Models for Code Generation under Compilability Constraints <br>
-<!-- Author(s): Tomasz Korbak, Hady Elsahar, GermÃ¡n Kruszewski and Marc Dymetman -->
+Author(s): Tomasz Korbak, Hady Elsahar, GermÃ¡n Kruszewski and Marc Dymetman
 +  SpecNFS: A Challenge Dataset Towards Extracting Formal Models from Natural Language Specifications <br>
-<!-- Author(s): Sayontan Ghosh, Amanpreet Singh, Alex Merenstein, Wei Su, Scott Smolka, Erez Zadok and Niranjan Balasubramanian -->
+Author(s): Sayontan Ghosh, Amanpreet Singh, Alex Merenstein, Wei Su, Scott Smolka, Erez Zadok and Niranjan Balasubramanian
 +  AUTOSQL: Question Auto-Completion for Text-to-SQL <br>
-<!-- Author(s): Naihao Deng, Shuaichen Chang, Peng Shi, Tao Yu and Rui Zhang -->
+Author(s): Naihao Deng, Shuaichen Chang, Peng Shi, Tao Yu and Rui Zhang
 +  Don't code, schedule! Annotating Instructional Executable Text at Scale Without Teaching Annotators How to Code <br>
 <!-- Author(s): Uri Goren and Reut Tsarfaty  -->
 + Backdoors in Neural Models of Source Code <br>
@@ -86,4 +86,4 @@ Author(s): Wasi Ahmad, Saikat Chakraborty, Baishakhi Ray and Kai-Wei Chang
 +  Community-Driven Alignment of Natural and Programming Languages <br>
 <!-- Author(s): Leonardo Hernandez-Cano, Yewen Pu, Robert Hawkins, Josh Tenenbaum and Armando Solar-Lezama -->
 +  In-IDE Code Generation from Natural Language: Promise and Challenges <br>
-<!-- Author(s): Frank F. Xu, Bogdan Vasilescu and Graham Neubig -->
+Author(s): Frank F. Xu, Bogdan Vasilescu and Graham Neubig

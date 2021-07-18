@@ -10,8 +10,10 @@ feature-img: "assets/img/pexels/computer.jpeg"
 
 
 
-| Eastern Time (UTC-4)   |  Title Y   |
-|:-----------------|:-----------------|
+| Eastern Time (UTC-4)   |  Title Z   |
+
+
+<!-- |:-----------------|:-----------------| -->
 
 
 <!-- |9:00-9:05 |Opening Remarks |

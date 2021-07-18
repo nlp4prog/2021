@@ -6,6 +6,24 @@ feature-img: "assets/img/pexels/computer.jpeg"
 ---
 
 # Program
+| Eastern Time (UTC-4)   | Title|
+|:-------------------|:--------------|
+|9:00-9:05 |Opening Remarks |
+|9:05-9:35 |**Invited Talk: [Eran Yahav](https://nlp4prog.github.io/2021/speakers/#eran_yahav)** |
+|9:35-10:05 |**Invited Talk: Charles Sutton**  |
+| 10:05-10:30 </td> <td> **Contributed Talk**:  _Code to Comment Translation: A Comparative Study on Model Effectiveness & Errors / Junayed Mahmud, Fahim Faisal, Raihan Islam Arnob, Antonios Anastasopoulos and Kevin Moran_ <br> <br>  **Contributed Talk**: _ConTest: A Unit Test Completion Benchmark featuring Context / Johannes Villmow, Jonas Depoix and Adrian Ulges_ |
+|10:30-11:30 | **First poster session** <br> <br> <br> <br> <br> <br>|
+|11:30-12:00 |**Invited Talk: [Mirella Lapata](https://nlp4prog.github.io/2021/speakers/#mirella_lapata)** |
+|12:00-12:30 |**Invited Talk: [Julia Hockenmaier](https://nlp4prog.github.io/2021/speakers/#julia_hockenmaier)** |
+|12:30-13:30 | Break |
+|13:30-14:00 |**Invited Talk: [Percy Liang](https://nlp4prog.github.io/2021/speakers/#percy_liang)** |
+|14:00-14:30   | **Invited Talk: [Stefanie Tellex](https://nlp4prog.github.io/2021/speakers/#stefanie_tellex)**|
+|14:30-15:15| |
+|15:15-15:45 |**Invited Talk: [Lin Tan](https://nlp4prog.github.io/2021/speakers/#lin_tan)** |
+|15:45-16:15 |**Invited Talk: [Brad Myers](https://nlp4prog.github.io/2021/speakers/#brad_myers)** |
+|16:15-17:35 |**Contributed Talk**: _In-IDE Code Generation from Natural Language: Promise and Challenges / Frank F. Xu, Bogdan Vasilescu and Graham Neubig_ <br> <br> **Contributed Talk**: _Leveraging Language for Abstraction and Program Search / Catherine Wong, Kevin Ellis, Jacob Andreas and Joshua Tenenbaum_  |
+|17:35-17:45 | |
+
 
 TBD
 

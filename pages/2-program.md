@@ -6,7 +6,7 @@ feature-img: "assets/img/pexels/computer.jpeg"
 ---
 
 # Program
-| Eastern Time (UTC-4)   | Title|
+| Eastern Time (UTC-4)   | Title |
 <!-- |:-------------------|:--------------|
 |9:00-9:05 |Opening Remarks |
 |9:05-9:35 |**Invited Talk: [Eran Yahav](https://nlp4prog.github.io/2021/speakers/#eran_yahav)** |

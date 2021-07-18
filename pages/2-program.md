@@ -6,8 +6,12 @@ feature-img: "assets/img/pexels/computer.jpeg"
 ---
 
 # Program
-| Eastern Time (UTC-4)   |  Title X   |
+
+| PDT (UTC-7)           | Title       |   
 |:-----------------|:-----------------|
+<!-- 
+| Eastern Time (UTC-4)   |  Title X   |
+|:-----------------|:-----------------| -->
 <!-- |9:00-9:05 |Opening Remarks |
 |9:05-9:35 |**Invited Talk: [Eran Yahav](https://nlp4prog.github.io/2021/speakers/#eran_yahav)** |
 |9:35-10:05 |**Invited Talk: [Charles Sutton](https://nlp4prog.github.io/2021/speakers/#charles_sutton)**  | -->

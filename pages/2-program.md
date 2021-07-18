@@ -20,7 +20,7 @@ feature-img: "assets/img/pexels/computer.jpeg"
 |11:30-12:00 |**Invited Talk: [Mirella Lapata](https://nlp4prog.github.io/2021/speakers/#mirella_lapata)** |
 |12:00-12:30 |**Invited Talk: [Julia Hockenmaier](https://nlp4prog.github.io/2021/speakers/#julia_hockenmaier)** |
 |12:30-13:30 | Break |
-|13:30-14:00 |**Invited Talk: [Percy Liang](https://nlp4prog.github.io/2021/speakers/#percy_liang)** |
+|13:30-14:00 |**Invited Talk: [Percy Liang](https://nlp4prog.github.io/2021/speakers/#percy_liang)** -- _Learning to Fix Programs_ |
 |14:00-14:30   | **Invited Talk: [Stefanie Tellex](https://nlp4prog.github.io/2021/speakers/#stefanie_tellex)**|
 |14:30-15:15| Open Discussion |
 |15:15-15:45 |**Invited Talk: [Lin Tan](https://nlp4prog.github.io/2021/speakers/#lin_tan)** |

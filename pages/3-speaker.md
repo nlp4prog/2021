@@ -56,12 +56,11 @@ feature-img: "assets/img/pexels/computer.jpeg"
 <a name="percy_liang"></a>
 <img align="left" src="../assets/img/speakers/percy_liang.jpeg" width="400px" style="vertical-align:middle;margin:0px 0px"> [Percy Liang](https://cs.stanford.edu/~pliang/) (Stanford; Microsoft Semantic Machines)
 
-**Talk**: _TBD_
+**Talk**: _Learning to Fix Programs_<br>
+A huge amount of time is spent by programmers fixing broken code.  Our goal is to train neural models that can do this automatically.  I will first present DrRepair, a system that learns to edit programs based on error messages.  We leverage a large number of valid programs by artificially perturbing (and thus breaking) them.  DrRepair obtains strong results on two tasks: fixing errors made by students and pseudocode-to-code translation.  We then present a new framework, Break-It-Fix-It (BIFI), which additionally leverages unlabeled broken code to learn a model that perturbs code to generate more realistic broken code.  We show that this results in further improvements over DrRepair.  Taken together, our work suggests that one can learn a lot just from unlabeled programs and a compiler and no further manual annotations.
 
 **Bio**:
-Percy Liang is an Associate Professor of Computer Science at Stanford University (B.S. from MIT, 2004; Ph.D. from UC Berkeley, 2011). Percy was also the lead scientist at Semantic Machines and now works at Microsoft part-time on conversational AI. His two research goals are (i) to make machine learning more robust, fair, and interpretable; and (ii) to make computers easier to communicate with through natural language.
-
-His awards include the Presidential Early Career Award for Scientists and Engineers (2019), IJCAI Computers and Thought Award (2016), an NSF CAREER Award (2016), a Sloan Research Fellowship (2015), and a Microsoft Research Faculty Fellowship (2014).
+Percy Liang is an Associate Professor of Computer Science at Stanford University (B.S. from MIT, 2004; Ph.D. from UC Berkeley, 2011).  His research spans many topics in machine learning and natural language processing, including robustness, interpretability, semantics, and reasoning.  He is also a strong proponent of reproducibility through the creation of CodaLab Worksheets.  His awards include the Presidential Early Career Award for Scientists and Engineers (2019), IJCAI Computers and Thought Award (2016), an NSF CAREER Award (2016), a Sloan Research Fellowship (2015), a Microsoft Research Faculty Fellowship (2014), and multiple paper awards at ACL, EMNLP, ICML, and COLT.
 
 
 <br />

@@ -7,8 +7,11 @@ feature-img: "assets/img/pexels/computer.jpeg"
 
 # Program
 
+
 | PDT (UTC-7)           | Title       |   
+
 |:-----------------|:-----------------|
+
 <!-- 
 | Eastern Time (UTC-4)   |  Title X   |
 |:-----------------|:-----------------| -->

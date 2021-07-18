@@ -7,8 +7,8 @@ feature-img: "assets/img/pexels/computer.jpeg"
 
 # Program
 | Eastern Time (UTC-4)   | Title |
-<!-- |:-------------------|:--------------|
-|9:00-9:05 |Opening Remarks |
+|:-------------------|:--------------|
+<!-- |9:00-9:05 |Opening Remarks |
 |9:05-9:35 |**Invited Talk: [Eran Yahav](https://nlp4prog.github.io/2021/speakers/#eran_yahav)** |
 |9:35-10:05 |**Invited Talk: [Charles Sutton](https://nlp4prog.github.io/2021/speakers/#charles_sutton)**  | -->
 <!-- |10:05-10:30 | **Contributed Talk**:  _Code to Comment Translation: A Comparative Study on Model Effectiveness & Errors / Junayed Mahmud, Fahim Faisal, Raihan Islam Arnob, Antonios Anastasopoulos and Kevin Moran_ <br> <br>  **Contributed Talk**: _ConTest: A Unit Test Completion Benchmark featuring Context / Johannes Villmow, Jonas Depoix and Adrian Ulges_ |

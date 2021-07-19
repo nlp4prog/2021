@@ -85,7 +85,7 @@ Percy Liang is an Associate Professor of Computer Science at Stanford University
 <a name="charles_sutton"></a>
 <img align="left" src="../assets/img/speakers/charles_sutton.jpg" width="400px"> [Charles Sutton](https://homepages.inf.ed.ac.uk/csutton/) (University of Edinburgh; Google AI)
 
-**Talk**: _Learning, Search, and Program Synthesis_
+**Talk**: _Learning, Search, and Program Synthesis_<br>
 Deep learning has potential to change the way that people write code, including both end users and professional software developers. One challenge in this area is program synthesis, the task of automatically writing a program from a specification of its desired behavior. Program synthesis can be considered one of the historical grand challenges of artificial intelligence, with work dating back to the 70s. I will discuss our recent work on using machine learning to guide program synthesis. This includes how to represent the specification for program synthesis tasks via the output of a set of property functions, and how to use execution information and latent variables to guide the search.
 
 **Bio**:

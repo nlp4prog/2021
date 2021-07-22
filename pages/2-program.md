@@ -87,3 +87,15 @@ Author(s): Wasi Ahmad, Saikat Chakraborty, Baishakhi Ray and Kai-Wei Chang
 <!-- Author(s): Leonardo Hernandez-Cano, Yewen Pu, Robert Hawkins, Josh Tenenbaum and Armando Solar-Lezama -->
 +  In-IDE Code Generation from Natural Language: Promise and Challenges <br>
 Author(s): Frank F. Xu, Bogdan Vasilescu and Graham Neubig
+
+
+# Presentations from Findings of ACL
++ Analysis of Tree-Structured Architectures for Code Generation <br>
+Author(s): Samip Dahal, Adyasha Maharana, Mohit Bansal
++ Disentangled Code Representation Learning for Multiple Programming Languages <br>
+Author(s): Jingfeng Zhang, Haiwen Hong, Yin Zhang, Yao Wan, Ye Liu, Yulei Sui
++ Logic-Consistency Text Generation from Semantic Parses <br>
+Author(s): Chang Shu, Yusen Zhang, Xiangyu Dong, Peng Shi, Tao Yu and Rui Zhang
++ Awakening Latent Grounding from Pretrained Language Models for Semantic Parsing <br>
+Author(s): Qian Liu, Dejian Yang, Jiahui Zhang, Jiaqi Guo, Bin Zhou and Jian-Guang LOU
+

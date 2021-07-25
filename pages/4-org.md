@@ -8,7 +8,7 @@ feature-img: "assets/img/pexels/computer.jpeg"
 # Organizers
 
 + [Royi Lachmy](https://nlp.biu.ac.il/~rtsarfaty/onlp/nlpro) (Bar-Ilan University)
-+ [Ziyu Yao](https://ziyuyao.org/) (The Ohio State University)
++ [Ziyu Yao](https://ziyuyao.org/) (The Ohio State University -> George Mason University)
 + [Greg Durrett](https://www.cs.utexas.edu/~gdurrett) (UT Austin)
 + [Milos Gligoric](http://users.ece.utexas.edu/~gligoric/) (UT Austin)
 + [Junyi Jessy Li](https://jjessyli.github.io)(UT Austin)

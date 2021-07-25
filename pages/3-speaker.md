@@ -119,7 +119,7 @@ Richard B. Salomon Faculty Research Award at Brown University, a DARPA Young Fac
 Sloan Research Fellowship, and an NSF Career Award in 2017.  Her work has been featured in the press on National Public Radio, BBC, MIT
 Technology Review, Wired and Wired UK, as well as the New Yorker.  She was named one of Wired UK's Women Who Changed Science In 2015 and
 listed as one of MIT Technology Review's Ten Breakthrough Technologies in 2016.<br>
-Website:  [http://h2r.cs.brown.edu/](http://h2r.cs.brown.edu/])
+Website:  [http://h2r.cs.brown.edu/](http://h2r.cs.brown.edu/)
 
 
 <br />

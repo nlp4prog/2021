@@ -21,7 +21,7 @@ feature-img: "assets/img/pexels/computer.jpeg"
 |12:00-12:30 |**Invited Talk: [Julia Hockenmaier](https://nlp4prog.github.io/2021/speakers/#julia_hockenmaier)** |
 |12:30-13:30 | Break |
 |13:30-14:00 |**Invited Talk: [Percy Liang](https://nlp4prog.github.io/2021/speakers/#percy_liang)** -- _Learning to Fix Programs_ |
-|14:00-14:30   | **Invited Talk: [Stefanie Tellex](https://nlp4prog.github.io/2021/speakers/#stefanie_tellex)**|
+|14:00-14:30   | **Invited Talk: [Stefanie Tellex](https://nlp4prog.github.io/2021/speakers/#stefanie_tellex)** -- _Towards Complex Language in Partially Observed Environments_|
 |14:30-15:15| Open Discussion |
 |15:15-15:45 |**Invited Talk: [Lin Tan](https://nlp4prog.github.io/2021/speakers/#lin_tan)** |
 |15:45-16:15 |**Invited Talk: [Brad Myers](https://nlp4prog.github.io/2021/speakers/#brad_myers)** |

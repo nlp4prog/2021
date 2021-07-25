@@ -98,9 +98,28 @@ Charles Sutton is a Research Scientist at Google Brain and a Reader (equivalent 
 <a name="stefanie_tellex"></a>
 <img align="left" src="../assets/img/speakers/stefanie_tellex.jpg" width="400px"> [Stefanie Tellex](https://cs.brown.edu/people/stellex/) (Brown University)
 
-**Talk**: _TBD_
+**Talk**: _Towards Complex Language in Partially Observed Environments_<br>
+Robots can act as a force multiplier for people, whether a robot assisting an astronaut with a repair on the International Space
+station, a UAV taking flight over our cities, or an autonomous vehicle driving through our streets. Existing approaches use action-based
+representations that do not capture the goal-based meaning of a language expression and do not generalize to partially observed
+environments.  The aim of my research program is to create autonomous robots that can understand complex goal-based commands and execute
+those commands in partially observed, dynamic environments.  I will describe demonstrations of object-search in a POMDP setting with
+information about object locations provided by language, and mapping between English and Linear Temporal Logic, enabling a robot to
+understand complex natural language commands in city-scale environments.  These advances represent steps towards robots that
+interpret complex natural language commands in partially observed environments using a decision theoretic framework.
 
-**Bio**: _TBD_
+**Bio**: 
+Stefanie Tellex is an Associate Professor of Computer Science at Brown University.  Her group, the Humans To Robots Lab, creates robots
+that seamlessly collaborate with people to meet their needs using language, gesture, and probabilistic inference, aiming to empower
+every person with a collaborative robot.  She completed her Ph.D. at the MIT Media Lab in 2010, where she developed models for the meanings
+of spatial prepositions and motion verbs.  Her postdoctoral work at MIT CSAIL focused on creating robots that understand natural language.
+She has published at SIGIR, HRI, RSS, AAAI, IROS, ICAPs and ICMI, winning Best Student Paper at SIGIR and ICMI, Best Paper at RSS, and
+an award from the CCC Blue Sky Ideas Initiative.  Her awards include being named one of IEEE Spectrum's AI's 10 to Watch in 2013, the
+Richard B. Salomon Faculty Research Award at Brown University, a DARPA Young Faculty Award in 2015, a NASA Early Career Award in 2016, a 2016
+Sloan Research Fellowship, and an NSF Career Award in 2017.  Her work has been featured in the press on National Public Radio, BBC, MIT
+Technology Review, Wired and Wired UK, as well as the New Yorker.  She was named one of Wired UK's Women Who Changed Science In 2015 and
+listed as one of MIT Technology Review's Ten Breakthrough Technologies in 2016.<br>
+Website:  [http://h2r.cs.brown.edu/](http://h2r.cs.brown.edu/])
 
 
 <br />

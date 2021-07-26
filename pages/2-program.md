@@ -25,8 +25,8 @@ feature-img: "assets/img/pexels/computer.jpeg"
 |14:30-15:15| Open Discussion |
 |15:15-15:45 |**Invited Talk: [Lin Tan](https://nlp4prog.github.io/2021/speakers/#lin_tan)** |
 |15:45-16:15 |**Invited Talk: [Brad Myers](https://nlp4prog.github.io/2021/speakers/#brad_myers)** -- _Programming by Natural Language and Demonstration_ |
-|16:15-16:40 |**Contributed Talk**: _In-IDE Code Generation from Natural Language: Promise and Challenges / Frank F. Xu, Bogdan Vasilescu and Graham Neubig_ <br> <br> **Contributed Talk**: _Leveraging Language for Abstraction and Program Search / Catherine Wong, Kevin Ellis, Jacob Andreas and Joshua Tenenbaum_  |
-|16:40-17:35| **Second Poster and Spotlight Talk Session** <br>_- In-IDE Code Generation from Natural Language: Promise and Challenges<br>- Leveraging Language for Abstraction and Program Search<br>- CoTexT: Multi-task Learning with Code-Text Transformer <br>- Shellcode_IA32: A Dataset for Automatic Shellcode Generation <br>- Reading StackOverflow Encourages Cheating: Adding Question Text Improves Extractive Code Generation <br>- Bag-of-Words Baselines for Semantic Code Search <br>- ArcaneQA: Strongly Generalizable Question Answering on Large-Scale Knowledge Bases <br>- Energy-Based Models for Code Generation under Compilability Constraints <br>- SpecNFS: A Challenge Dataset Towards Extracting Formal Models from Natural Language Specifications <br>- Communicating Natural Programs to Humans and Machines <br>- Community-Driven Alignment of Natural and Programming Languages <br>- Unified Pre-training for Program Understanding and Generation <br>- Analysis of Tree-Structured Architectures for Code Generation <br>- Disentangled Code Representation Learning for Multiple Programming Languages_ |
+|16:15-16:40 |**Contributed Talk**: _In-IDE Code Generation from Natural Language: Promise and Challenges / Frank F. Xu, Bogdan Vasilescu and Graham Neubig_ <br> <br> **Contributed Talk**: _Leveraging Language to Learn Program Abstractions and Search Heuristics / Catherine Wong, Kevin Ellis, Jacob Andreas and Joshua Tenenbaum_  |
+|16:40-17:35| **Second Poster and Spotlight Talk Session** <br>_- In-IDE Code Generation from Natural Language: Promise and Challenges<br>- Leveraging Language to Learn Program Abstractions and Search Heuristics<br>- CoTexT: Multi-task Learning with Code-Text Transformer <br>- Shellcode_IA32: A Dataset for Automatic Shellcode Generation <br>- Reading StackOverflow Encourages Cheating: Adding Question Text Improves Extractive Code Generation <br>- Bag-of-Words Baselines for Semantic Code Search <br>- ArcaneQA: Strongly Generalizable Question Answering on Large-Scale Knowledge Bases <br>- Energy-Based Models for Code Generation under Compilability Constraints <br>- SpecNFS: A Challenge Dataset Towards Extracting Formal Models from Natural Language Specifications <br>- Communicating Natural Programs to Humans and Machines <br>- Community-Driven Alignment of Natural and Programming Languages <br>- Unified Pre-training for Program Understanding and Generation <br>- Analysis of Tree-Structured Architectures for Code Generation <br>- Disentangled Code Representation Learning for Multiple Programming Languages_ |
 |17:35-17:45 | Concluding Remarks|
 
 
@@ -59,7 +59,7 @@ Author(s): Xinyu Zhang, Ji Xin, Andrew Yates and Jimmy Lin
 ## Non-Archival Papers
 + IdBench: Evaluating Semantic Representations of Identifier Names in Source Code <br>
 Author(s): Yaza Wainakh, Moiz Rauf and Michael Pradel
-+ Leveraging Language for Abstraction and Program Search <br>
++ Leveraging Language to Learn Program Abstractions and Search Heuristics <br>
 Author(s): Catherine Wong, Kevin Ellis, Jacob Andreas and Joshua Tenenbaum
 +  ArcaneQA: Strongly Generalizable Question Answering on Large-Scale Knowledge Bases <br>
 <!-- Author(s): Yu Gu and Yu Su -->

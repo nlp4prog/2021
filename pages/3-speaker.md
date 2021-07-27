@@ -40,7 +40,13 @@ feature-img: "assets/img/pexels/computer.jpeg"
 <a name="mirella_lapata"></a>
 <img align="left" src="../assets/img/speakers/mirella_lapata.jpeg" width="400px"> [Mirella Lapata](https://homepages.inf.ed.ac.uk/mlap/) (University of Edinburgh)
 
-**Talk**: _TBD_
+**Talk**: _The Democratization of Semantic Parsing via Zero-Shot Cross-lingual Learning_<br>
+Semantic parsing is the task of mapping natural language utterances to machine-interpretable expressions such as SQL or a logical meaning representation. It has emerged as a key technology for developing natural language interfaces, especially in the context of question answering where a semantically complex question is mapped to an executable query to retrieve an answer, or denotation.
+
+Datasets for semantic parsing scarcely consider languages other than English and professional translation can be prohibitively expensive. Recent work has successfully applied machine translation to localize parsers to new languages. However, high-quality machine translation is less viable for lower resource languages, and can introduce performance limiting artifacts, struggling to accurately model native speakers.
+
+In this talk we view cross-lingual semantic parsing as a zero-shot learning problem.  We propose a multi-task encoder-decoder model to transfer parsing knowledge to additional languages using only English-Logical form paired data and unlabeled, mono-lingual utterances in each target language. Our encoder learns
+language-agnostic representations and is jointly optimized for generating logical forms or utterance reconstruction and against language discriminability.  We frame zero-shot parsing as a latent-space alignment problem and find that pre-trained models can be improved to generate logical forms with minimal cross-lingual transfer penalty.  Our parser performs above back-translation baselines and, in some cases, approaches the supervised upper bound.
 
 **Bio**: _TBD_
 

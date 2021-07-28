@@ -77,9 +77,12 @@ Percy Liang is an Associate Professor of Computer Science at Stanford University
 <a name="eran_yahav"></a>
 <img align="left" src="../assets/img/speakers/eran_yahav.jpg" width="400px"> [Eran Yahav](http://www.cs.technion.ac.il/~yahave/) (Technion, Israel)
 
-**Talk**: _TBD_
+**Talk**: _Pair Programming with Structural Language Models_<br>
+We describe two tasks that are central to "pair programming" with language models: code completion and edit completion. The goal in code completion is to generate a missing piece of code in a given program. The goal in edit completion is to predict remaining edit operations given a code snippet that has been partially edited.
 
-**Bio**: _TBD_
+We show that both of these tasks benefit from structural language models---models that leverage the syntax of programming languages to model a code snippet as a tree. Structural language models estimate the probability of the program's abstract syntax tree (AST) by decomposing it into a product of conditional probabilities over its nodes. We present a neural model that computes the conditional probability of each node by considering every AST path leading to that node. 
+
+**Bio**: _Eran Yahav is a professor at the Computer Science Department in the Technion, Israel, and the CTO of Tabnine. Prior to that, he was a research staff member at the IBM T.J. Watson Research Center (2004-2010). He received his Ph.D. from Tel Aviv University (2005) and his B.Sc. from the Technion in 1996. His research interests include program synthesis, machine learning for code, program analysis, and program verification. Eran is a recipient of the prestigious Alon Fellowship for Outstanding Young Researchers, the Andre Deloro Career Advancement Chair in Engineering, the Robin Milner Young Researcher Award, and multiple distinguished paper awards at various conferences. Eran loves long-distance running, and while he has not won any medals yet, he has suffered at least one heatstroke trying._
 
 <br />
 <br />
@@ -128,10 +131,6 @@ listed as one of MIT Technology Review's Ten Breakthrough Technologies in 2016.<
 Website:  [http://h2r.cs.brown.edu/](http://h2r.cs.brown.edu/)
 
 
-<br />
-<br />
-<br />
-<br />
 <br />
 <br />
 <br />

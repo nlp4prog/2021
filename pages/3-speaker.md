@@ -48,7 +48,12 @@ Datasets for semantic parsing scarcely consider languages other than English and
 In this talk we view cross-lingual semantic parsing as a zero-shot learning problem.  We propose a multi-task encoder-decoder model to transfer parsing knowledge to additional languages using only English-Logical form paired data and unlabeled, mono-lingual utterances in each target language. Our encoder learns
 language-agnostic representations and is jointly optimized for generating logical forms or utterance reconstruction and against language discriminability.  We frame zero-shot parsing as a latent-space alignment problem and find that pre-trained models can be improved to generate logical forms with minimal cross-lingual transfer penalty.  Our parser performs above back-translation baselines and, in some cases, approaches the supervised upper bound.
 
-**Bio**: _TBD_
+**Bio**: Mirella Lapata is professor of natural language processing in the  School of Informatics at the University of Edinburgh. Her research
+ focuses on getting computers to understand, reason with, and generate natural language. She is the first recipient (2009) of the British
+ Computer Society and Information Retrieval Specialist Group (BCS/IRSG)  Karen Sparck Jones award and a Fellow of the Royal Society of
+ Edinburgh. She has also received best paper awards in leading NLP  conferences and has served on the editorial boards of the Journal of
+ Artificial Intelligence Research, the Transactions of the ACL, and Computational Linguistics. She was president of SIGDAT (the group that
+ organizes EMNLP) in 2018.
 
 
 <br />
@@ -82,7 +87,7 @@ We describe two tasks that are central to "pair programming" with language model
 
 We show that both of these tasks benefit from structural language models---models that leverage the syntax of programming languages to model a code snippet as a tree. Structural language models estimate the probability of the program's abstract syntax tree (AST) by decomposing it into a product of conditional probabilities over its nodes. We present a neural model that computes the conditional probability of each node by considering every AST path leading to that node. 
 
-**Bio**: _Eran Yahav is a professor at the Computer Science Department in the Technion, Israel, and the CTO of Tabnine. Prior to that, he was a research staff member at the IBM T.J. Watson Research Center (2004-2010). He received his Ph.D. from Tel Aviv University (2005) and his B.Sc. from the Technion in 1996. His research interests include program synthesis, machine learning for code, program analysis, and program verification. Eran is a recipient of the prestigious Alon Fellowship for Outstanding Young Researchers, the Andre Deloro Career Advancement Chair in Engineering, the Robin Milner Young Researcher Award, and multiple distinguished paper awards at various conferences. Eran loves long-distance running, and while he has not won any medals yet, he has suffered at least one heatstroke trying._
+**Bio**: Eran Yahav is a professor at the Computer Science Department in the Technion, Israel, and the CTO of Tabnine. Prior to that, he was a research staff member at the IBM T.J. Watson Research Center (2004-2010). He received his Ph.D. from Tel Aviv University (2005) and his B.Sc. from the Technion in 1996. His research interests include program synthesis, machine learning for code, program analysis, and program verification. Eran is a recipient of the prestigious Alon Fellowship for Outstanding Young Researchers, the Andre Deloro Career Advancement Chair in Engineering, the Robin Milner Young Researcher Award, and multiple distinguished paper awards at various conferences. Eran loves long-distance running, and while he has not won any medals yet, he has suffered at least one heatstroke trying.
 
 <br />
 <br />
@@ -130,13 +135,6 @@ Technology Review, Wired and Wired UK, as well as the New Yorker.  She was named
 listed as one of MIT Technology Review's Ten Breakthrough Technologies in 2016.<br>
 Website:  [http://h2r.cs.brown.edu/](http://h2r.cs.brown.edu/)
 
-
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
 
 
 

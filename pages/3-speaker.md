@@ -27,11 +27,6 @@ feature-img: "assets/img/pexels/computer.jpeg"
 
 **Bio**: _TBD_ 
 
-
-
-<br />
-<br />
-<br />
 <br />
 <br />
 
@@ -55,10 +50,6 @@ language-agnostic representations and is jointly optimized for generating logica
  Artificial Intelligence Research, the Transactions of the ACL, and Computational Linguistics. She was president of SIGDAT (the group that
  organizes EMNLP) in 2018.
 
-
-<br />
-<br />
-<br />
 <br />
 <br />
 
@@ -89,9 +80,6 @@ We show that both of these tasks benefit from structural language models---model
 
 **Bio**: Eran Yahav is a professor at the Computer Science Department in the Technion, Israel, and the CTO of Tabnine. Prior to that, he was a research staff member at the IBM T.J. Watson Research Center (2004-2010). He received his Ph.D. from Tel Aviv University (2005) and his B.Sc. from the Technion in 1996. His research interests include program synthesis, machine learning for code, program analysis, and program verification. Eran is a recipient of the prestigious Alon Fellowship for Outstanding Young Researchers, the Andre Deloro Career Advancement Chair in Engineering, the Robin Milner Young Researcher Award, and multiple distinguished paper awards at various conferences. Eran loves long-distance running, and while he has not won any medals yet, he has suffered at least one heatstroke trying.
 
-<br />
-<br />
-<br />
 <br />
 <br />
 
@@ -135,6 +123,8 @@ Technology Review, Wired and Wired UK, as well as the New Yorker.  She was named
 listed as one of MIT Technology Review's Ten Breakthrough Technologies in 2016.<br>
 Website:  [http://h2r.cs.brown.edu/](http://h2r.cs.brown.edu/)
 
+<br />
+<br />
 
 
 
@@ -166,4 +156,6 @@ We have been working for the last 6 years on the Sugilite system, which combines
 **Bio**:
 Brad A. Myers is a Professor in the Human-Computer Interaction Institute in the School of Computer Science at Carnegie Mellon University. He was chosen to receive the ACM SIGCHI Lifetime Achievement Award in Research in 2017, for outstanding fundamental and influential research contributions to the study of human-computer interaction. He is an IEEE Fellow, ACM Fellow, member of the CHI Academy, and winner of 17 Best Paper type awards and 5 Most Influential Paper Awards. He is the author or editor of over 525 publications, including the books "Creating User Interfaces by Demonstration" and "Languages for Developing User Interfaces," and he has been on the editorial board of six journals. He has been a consultant on user interface design and implementation to over 90 companies, and regularly teaches courses on user interface design and software. Myers received a PhD in computer science at the University of Toronto where he developed the Peridot user interface tool. He received the MS and BSc degrees from the Massachusetts Institute of Technology during which time he was a research intern at Xerox PARC. From 1980 until 1983, he worked at PERQ Systems Corporation. His research interests include user interfaces, programming environments, programming language design, end-user software engineering (EUSE), API usability, developer experience (DevX or DX), interaction techniques, programming by example, mobile computing, and visual programming. He belongs to ACM, SIGCHI, IEEE, and the IEEE Computer Society.
 
-<br>
+<br />
+<br />
+

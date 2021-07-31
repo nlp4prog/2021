@@ -132,17 +132,20 @@ Website:  [http://h2r.cs.brown.edu/](http://h2r.cs.brown.edu/)
 <a name="lin_tan"></a>
 <img align="left" src="../assets/img/speakers/lin_tan.jpg" width="400px"> [Lin Tan](https://www.cs.purdue.edu/homes/lintan/) (Purdue University)
 
-**Talk**: _TBD_
+**Talk**: _Software Text Analytics for Finding and Fixing Software Bugs_<br>
+Software contains a large amount of text, such as code comments, API documentation, identifier names, processor specifications, and user interface text. Such software text contains a rich amount of information that can be leveraged to improve and automate important software development tasks including specification mining, bug detection, and program repair. 
+
+In this talk, I will present the history as well as our work that analyzes software text in addition to source code to detect and fix software bugs automatically. These techniques extract input constraints from software text to guide symbolic execution and other program analysis techniques to test more code and find more real-world bugs given the same time budget. In addition, we cross-check source code and the specifications extracted from software text to find inconsistency bugs in source code and software text. 
+
+I will also describe our techniques that build neural machine translation models to learn how to fix bugs automatically. Existing models do not have software knowledge such as code context or syntaxes. I will present our code-aware deep learning techniques to fix software bugs more effectively.  These bug detection and fixing techniques combine machine learning, natural language processing, and program analysis techniques to improve software dependability. 
+
 
 **Bio**:
-Lin Tan is a Mary J. Elmore New Frontiers Associate Professor of Computer Science at Purdue University. She is an IEEE senior member.
+Lin Tan is a Mary J. Elmore New Frontiers Associate Professor in the Department of Computer Science at Purdue University. Her research interests include software dependability, software text analytics, and software and AI synergy. 
 
-She received her PhD from the University of Illinois, Urbana-Champaign. Prior to joining Purdue, she was a Canada Research Chair and an associate professor at the University of Waterloo. Her research interests include software dependability and software text analytics. Some of her research focuses are leveraging machine learning and natural language processing techniques to improve software dependability, and using software approaches to improve the dependability of machine learning systems.
+Dr. Tan was a recipient of Early Career Academic Achievement Alumni Award (from the University of Illinois, Urbana-Champaign), Canada Research Chair (one of Canada's highest research honors), an Ontario Early Researcher Award, two J.P.Morgan AI Research Faculty Awards, two Facebook Research Awards, two Google Faculty Research Awards, and an IBM CAS Research Project of the Year Award.  Dr. Tan's co-authored papers have received ACM SIGSOFT Distinguished Paper Awards at ASE 2020, MSR 2018, and FSE 2016; and IEEE Micro's Top Picks in 2006. 
 
-Dr. Tan was a recipient of Canada Research Chair (one of Canada's highest research honors), an NSERC Discovery Accelerator Supplements Award, an Ontario Early Researcher Award, an Ontario Professional Engineers Award--Engineering Medal for Young Engineer, J.P.Morgan AI Research Faculty Award, two Google Faculty Research Awards, two Facebook research awards, and an IBM CAS Research Project of the Year Award. Dr. Tan's co-authored papers have received ACM SIGSOFT Distinguished Paper Awards at ASE 2020, MSR 2018, and FSE 2016; and IEEE Micro's Top Picks in 2006.
-
-She is/was the program (co-)chair of FSE 2020 Visions & Reflections, ICSE-SMeW 2019, SOSP 2019 Scholarship, MSR 2017, ICSE-NIER 2017, and ICSME-ERA 2015. She is an associate editor of IEEE Transactions on Software Engineering (2017-present) and an editor of the Springer Empirical Software Engineering Journal (2015-present).
-
+She served as program (co-)chair of FSE 2020 Visions & Reflections, ICSE-SMeW 2019, SOSP 2019 Scholarship, MSR 2017, ICSE-NIER 2017, and ICSME-ERA 2015. She is an associate editor of IEEE Transactions on Software Engineering (2017-present).
 <br />
 <br />
 

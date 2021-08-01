@@ -62,7 +62,7 @@ Author(s): Yaza Wainakh, Moiz Rauf and Michael Pradel
 + Leveraging Language to Learn Program Abstractions and Search Heuristics <br>
 Author(s): Catherine Wong, Kevin Ellis, Jacob Andreas and Joshua Tenenbaum
 +  ArcaneQA: Strongly Generalizable Question Answering on Large-Scale Knowledge Bases <br>
-<!-- Author(s): Yu Gu and Yu Su -->
+Author(s): Yu Gu and Yu Su
 +  Text2App: A Framework for Creating Android Apps from Text Descriptions <br>
 Author(s): Masum Hasan, Kazi Sajeed Mehrab, Wasi Ahmad and Rifat Shahriyar
 +  CoDesc: A Large Code–Description Parallel Dataset <br>

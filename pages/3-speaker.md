@@ -23,9 +23,10 @@ feature-img: "assets/img/pexels/computer.jpeg"
 <a name="julia_hockenmaier"></a>
 <img align="left" src="../assets/img/speakers/Julia_Hockenmaier.jpg" width="400px"> [Julia Hockenmaier](http://juliahmr.cs.illinois.edu/) (UIUC)
 
-**Talk**: _TBD_
+**Talk**: _Collaborative Construction and Communication with Minecraft_<br>
+Virtual gaming platforms such as Minecraft allow us to study situated natural language generation and understanding tasks for agents that operate in complex 3D environments. In this talk, I will present a collaborative Blocks World construction task, where one player (the Architect) needs to instruct another (the Builder) via a chat interface to construct a given target structure that only the Architect is shown. Although humans easily complete this task (often after lengthy back-and-forth dialogue), creating agents for each of these roles poses a number of challenges for current NLP technologies. Probably of most relevance to the topic of this workshop is the role of the Builder, which requires the ability to generate sequences of executable code that are appropriate in the current game and dialogue context, and I will describe and demonstrate a neural model for this task. This talk is based on joint work with Anjali Narayan-Chen, Prashant Jayannavar, Harsha Kokel, Mayukh Das, Rakib Islam, Julia Bonn, Jon Cai, Susan Brown, Soham Dan, Jana Doppa, Sriraam Natarajan, Martha Palmer, and Dan Roth. 
 
-**Bio**: _TBD_ 
+**Bio**: Julia Hockenmaier is an associate professor in Computer Science at the University of Illinois at Urbana-Champaign. She has received a CAREER award for her work on CCG-based grammar induction and an IJCAI-JAIR Best Paper Prize for her work on image description. She has served as member and chair of the NAACL board, president of SIGNLL, and as program chair of CoNLL 2013 and EMNLP 2018.
 
 <br />
 <br />

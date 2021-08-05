@@ -32,6 +32,8 @@ feature-img: "assets/img/pexels/computer.jpeg"
 
 # Accepted Papers
 
+**Check out the workshop proceedings [here](https://aclanthology.org/2021.nlp4prog-1.pdf). Congratulations to all the authors, and thanks to all reviewers for their hard work!**
+
 ## Regular Papers
 + CommitBERT: Commit Message Generation Using Pre-Trained Programming Language Model [[paper]](https://aclanthology.org/2021.nlp4prog-1.3.pdf)<br>
 Author(s): Tae Hwan Jung

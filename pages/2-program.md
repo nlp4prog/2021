@@ -33,25 +33,25 @@ feature-img: "assets/img/pexels/computer.jpeg"
 # Accepted Papers
 
 ## Regular Papers
-+ CommitBERT: Commit Message Generation Using Pre-Trained Programming Language Model <br>
++ CommitBERT: Commit Message Generation Using Pre-Trained Programming Language Model [[paper]](https://aclanthology.org/2021.nlp4prog-1.3.pdf)<br>
 Author(s): Tae Hwan Jung
-+  Text-to-SQL in the Wild: A Naturally-Occurring Dataset Based on Stack Exchange Data <br>
++  Text-to-SQL in the Wild: A Naturally-Occurring Dataset Based on Stack Exchange Data [[paper]](https://aclanthology.org/2021.nlp4prog-1.9.pdf)<br>
 Author(s): Moshe Hazoom, Vibhor Malik and Ben Bogin
-+  Code to Comment Translation: A Comparative Study on Model Effectiveness & Errors <br>
++  Code to Comment Translation: A Comparative Study on Model Effectiveness & Errors [[paper]](https://aclanthology.org/2021.nlp4prog-1.1.pdf)<br>
 Author(s): Junayed Mahmud, Fahim Faisal, Raihan Islam Arnob, Antonios Anastasopoulos and Kevin Moran
-+  Shellcode_IA32: A Dataset for Automatic Shellcode Generation <br>
++  Shellcode_IA32: A Dataset for Automatic Shellcode Generation [[paper]](https://aclanthology.org/2021.nlp4prog-1.7.pdf)<br>
 Author(s): Pietro Liguori, Erfan Al-Hossami, Domenico Cotroneo, Roberto Natella, Bojan Cukic and Samira Shaikh 
-+ ConTest: A Unit Test Completion Benchmark featuring Context <br>
++ ConTest: A Unit Test Completion Benchmark featuring Context [[paper]](https://aclanthology.org/2021.nlp4prog-1.2.pdf)<br>
 Author(s): Johannes Villmow, Jonas Depoix and Adrian Ulges
-+  Time-Efficient Code Completion Model for the R Programming Language <br>
++  Time-Efficient Code Completion Model for the R Programming Language [[paper]](https://aclanthology.org/2021.nlp4prog-1.4.pdf)<br>
 Author(s): Artem Popov, Dmitrii Orekhov, Denis Litvinov, Nikolay Korolev and Gleb Morgachev
-+  CoTexT: Multi-task Learning with Code-Text Transformer <br>
++  CoTexT: Multi-task Learning with Code-Text Transformer [[paper]](https://aclanthology.org/2021.nlp4prog-1.5.pdf)<br>
 Author(s): Long Phan, Hieu Tran, Daniel Le, Hieu Nguyen, James Annibal, Alec Peltekian and Yanfang Ye
-+  DIRECT : A Transformer-based Model for Decompiled Identifier Renaming <br>
++  DIRECT : A Transformer-based Model for Decompiled Identifier Renaming [[paper]](https://aclanthology.org/2021.nlp4prog-1.6.pdf)<br>
 Author(s): Vikram Nitin, Anthony Saieva, Baishakhi Ray and Gail Kaiser 
-+  Reading StackOverflow Encourages Cheating: Adding Question Text Improves Extractive Code Generation <br>
++  Reading StackOverflow Encourages Cheating: Adding Question Text Improves Extractive Code Generation [[paper]](https://aclanthology.org/2021.nlp4prog-1.8.pdf)<br>
 Author(s): Gabriel Orlanski and Alex Gittens
-+  Bag-of-Words Baselines for Semantic Code Search <br>
++  Bag-of-Words Baselines for Semantic Code Search [[paper]](https://aclanthology.org/2021.nlp4prog-1.10.pdf)<br>
 Author(s): Xinyu Zhang, Ji Xin, Andrew Yates and Jimmy Lin
 
 

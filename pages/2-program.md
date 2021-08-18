@@ -7,6 +7,7 @@ feature-img: "assets/img/pexels/computer.jpeg"
 
 # Program
 
+**Update Aug 18: Thank everyone for attending the NLP4Prog workshop! Our video recordings are [available here](https://urldefense.com/v3/__https://drive.google.com/drive/folders/1Ctp_z4_alNewD_MQg9pPwoIfccf-A3eF?usp=sharing__;!!KGKeukY!n1cX-J2gFzmwtGMhwqIj81-i7WIrsJ0AImLimXzkwv9Q6X7T8bZFxE_NQpANJkAtJWr01ffF6IQ$).**
 
 
 
